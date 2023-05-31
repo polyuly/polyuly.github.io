@@ -1,0 +1,52 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Digital Mental Health Research Group at PolyU
+email: yan-nursing.li@polyu.edu.hk
+description: Website of Yan Li's Research Group
+baseurl: ""
+url: ""
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+social:
+  GitHub: https://github.com/boyang--li || github
+  E-Mail: mailto:lbynwpu@gmail.com || envelope
+  Linkedin: https://www.linkedin.com/in/boyang-li-10398480 || linkedin
+
+links:
+  PolyU HTML Group: https://www.polyu.edu.hk/researchgrp/cywen/index.php/en/index.html
+  Soft Systems Group: https://softsystemsgroup.com/
+
+# Google Analytics
+ # google_analytics:
+ # tracking_id: UA-69834901-1
