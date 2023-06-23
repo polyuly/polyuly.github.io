@@ -1,4 +1,4 @@
-# Polyu Digital Mental Health Research Group
+# Digital Mental Health Research Group
 
 Aknowledge  the template from [Allan Lab][1]. Code released under the MIT License.
 
