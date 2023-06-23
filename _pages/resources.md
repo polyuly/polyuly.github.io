@@ -1,7 +1,7 @@
 ---
-title: "Digital Mental Health Research Group- Resources"
+title: "Digital Mental Health Research Group- Research Resources"
 layout: textlay
-excerpt: "Digital Mental Health Research Group-- Resources"
+excerpt: "Digital Mental Health Research Group-- Research Resources"
 sitemap: false
 permalink: /resources/
 ---
