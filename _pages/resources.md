@@ -6,7 +6,7 @@ sitemap: false
 permalink: /resources/
 ---
 
-# Research Fund
+# Research Resource
 
 ## Research/Academic Grants As Principal Investigator
 
