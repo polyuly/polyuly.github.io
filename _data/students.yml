@@ -33,6 +33,15 @@
   education1: MSc, The Hong Kong University of Science and Technology, 2022
   education2: B.Eng, Xiang’tan University, 2018
 
+- name: Hu Yule 胡宇乐
+  photo: HuYule.jpg
+  info: PHD student
+  research_interest: Spinal cord injury rehabilitation, Mental health, Clinical nutrition
+  email: huyulele@126.com
+  number_educ: 2
+  education1: Master of Nursing, Chinese Academy of Medical Sciences & Peking Union Medical College, 2023
+  education2: Bachelor of Nursing, Chinese Academy of Medical Sciences & Peking Union Medical College, 2020
+
 - name: Li Jiaying 李佳颖
   photo: Janice.jpg
   info: Research Assistant 
@@ -91,9 +100,19 @@
   info: Research Assistant
   research_interest: Social psychology, Psychosocial interventions
   email: momo2.lam@polyu.edu.hk
-  number_educ: 2
+  number_educ: 3
   education1: Master in Early Childhood Education, The Chinese University of Hong Kong, 2021
-  education2: BSSs (Honours) in Psychology, School of Professional Education and Executive Development, 2021
+  education2: BSSs (Honours) in Psychology, The Hong Kong Polytechnic University, SPEED, 2021
+  education3: RSW, Social Workers Registration Board
+
+- name: Mei Xiaoxiao 梅萧萧
+  photo: meixiaoxiao.jpg
+  info: PHD student
+  research_interest: Ankylosing spondylitis, Mental health
+  email: mxx19971017@163.com
+  number_educ: 2
+  education1: Master of Nursing, Guangzhou University of Chinese Medicine, 2023
+  education2: Bachelor of Nursing, Zhengzhou University, 2020
 
 - name: Sun Hei Mang 孫曦萌 
   photo: Sue.jpg
