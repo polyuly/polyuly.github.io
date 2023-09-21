@@ -13,7 +13,7 @@ Dr Yan Li's research interest is **spinal cord injury rehabilitation**, **psycho
 
 Dr Yan Li has published around 20 peer-reviewed journal articles and she has served as a reviewer for the Journal of Nursing Scholarship, Disability and Rehabilitation, International Journal of Interprofessional Care, BMC geriatrics, Spinal Cord and Journal of Spine surgery.
 
-**We are now recruiting highly motivated Ph.D. students and Postdoc fellows, if you are interested to join our group, please check** [Vacancies]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are now recruiting highly motivated Ph.D. students and postdoctoral research fellows, if you are interested to join our group, please check** [Vacancies]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 </p>
 
