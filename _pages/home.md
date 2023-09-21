@@ -5,10 +5,17 @@ excerpt: "Digital Mental Health Research Group at HK PolyU"
 sitemap: false
 permalink: /
 ---
+<p align = "justify">
 
-Yan is an Assistant Professor at the [School of Nursing](https://www.polyu.edu.hk/sn/), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/). She completed her postdoctoral training at Florence Nightingale Faculty of Nursing, Midwifery, and Palliative care from 2019-2020. Dr Li is a registered nurse with over 8 years of experience, and she is an active nurse researcher. Her research interest is spinal cord injury rehabilitation, psychosocial interventions, and mental health promotion. Her work was supported by Prof Ida Martinson Fund and King’s College London Global Research Grant. She has recently been awarded the Hong Kong Government Health and Medical Research Fund Research Fellowship to continue her research work and contribution towards local service innovation and research development in the area of mental health within spinal cord injury community rehabilitation. Dr Li has published around 20 peer-reviewed journal articles and she has served as a reviewer for the Journal of Nursing Scholarship, Disability and Rehabilitation, International Journal of Interprofessional Care, BMC geriatrics, Spinal Cord and Journal of Spine surgery.
+Dr Yan Li is an Assistant Professor at the [School of Nursing](https://www.polyu.edu.hk/sn/), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/). She completed her postdoctoral training at Florence Nightingale Faculty of Nursing, Midwifery, and Palliative care from 2019-2020. Dr Li is a registered nurse with over 8 years of experience, and she is an active nurse researcher. 
 
-**If you are interested to join our group, please check** [Vacancies]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+Dr Yan Li's research interest is **spinal cord injury rehabilitation**, **psychosocial interventions**, and **mental health promotion**. Her work was supported by Prof Ida Martinson Fund and King’s College London Global Research Grant. She has recently been awarded the Hong Kong Government Health and Medical Research Fund Research Fellowship to continue her research work and contribution towards local service innovation and research development in the area of mental health within spinal cord injury community rehabilitation. 
+
+Dr Yan Li has published around 20 peer-reviewed journal articles and she has served as a reviewer for the Journal of Nursing Scholarship, Disability and Rehabilitation, International Journal of Interprofessional Care, BMC geriatrics, Spinal Cord and Journal of Spine surgery.
+
+**We are now recruiting highly motivated Ph.D. students and Postdoc fellows, if you are interested to join our group, please check** [Vacancies]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
+</p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
