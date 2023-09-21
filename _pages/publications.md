@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Representative Publications 
 
-### <font color="blue"> 2023 </font>
+### 2023
 
 * **Li, Y.**, Liang, S., Zhu, B., Liu, X., Li, J., Chen, D., ... & Bressington, D. (2023). Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions: A systematic review of randomized controlled trials. **International Journal of Nursing Studies**, 104494.
 
