@@ -11,9 +11,13 @@ permalink: /publications/
 
 ## Representative Publications 
 
+### 2023
+
 * **Li, Y.**, Liang, S., Zhu, B., Liu, X., Li, J., Chen, D., ... & Bressington, D. (2023). Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions: A systematic review of randomized controlled trials. **International Journal of Nursing Studies**, 104494.
 
 * **Li, Y.**, Wong, A., Chung, W. M., Li, M., Molasiotis, A., Bressington, D., ... & Yeung, W. F. (2023). Evaluation of a Physical-Psychological Integrative (PPI) intervention for community-dwelling spinal cord injury survivors: Study protocol of a preliminary randomized controlled trial. Plos one, 18(3), e0282846.
+
+### 2021
 
 * **Li, Y.**, Bressington, D., Wang, S., Leung, S. F., & Mak, Y. W. (2021). Relationship between parental psychological control and optimism among Hong Kong adolescents: The mediating role of self-mastery. Current Psychology, 1-8.
 
