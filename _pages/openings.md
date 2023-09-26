@@ -43,12 +43,12 @@ permalink: /vacancies
 **Duties**
 
 The appointee will assist the project leader in the research project - “Digital preventive healthcare for people with physical disabilities: a programme of research”.  The research group has rich experience in relevant fields and aims at achieving impactful deliverables and publishing high-quality papers in top journals and conferences.  The appointee will be required to:
-- research and develop new algorithms for the AI-based digital assistant;
-- develop web-based interventions;
-- research and develop new learning mechanisms to train efficient networks with available training dataset;
-- design novel and efficient learning framework tailored for a specific application;
-- write papers and proposals; and
-- perform any other duties as assigned by the project leader or his/her delegates.
+1. research and develop new algorithms for the AI-based digital assistant;
+2. develop web-based interventions;
+3. research and develop new learning mechanisms to train efficient networks with available training dataset;
+4. design novel and efficient learning framework tailored for a specific application;
+5. write papers and proposals; and
+6. perform any other duties as assigned by the project leader or his/her delegates.
 
 **Qualifications**
 
