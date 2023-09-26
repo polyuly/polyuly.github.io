@@ -10,7 +10,6 @@ permalink: /vacancies
 
 ## We are always looking for new group members with passion, talent, and grit!
 
-Interested? Please don’t hesitate to contact me for further information.
 
 <p align = "center">
 
@@ -42,6 +41,35 @@ Interested? Please don’t hesitate to contact me for further information.
 - Electronic copies of representative achievements reflecting your academic level
 
 </p>
+
+<p align = "center">
+
+**Postdoctoral Fellow**
+
+*Duties*
+
+The appointee will assist the project leader in the research project - “Digital preventive healthcare for people with physical disabilities: a programme of research”.  The research group has rich experience in relevant fields and aims at achieving impactful deliverables and publishing high-quality papers in top journals and conferences.  The appointee will be required to:
+- research and develop new algorithms for the AI-based digital assistant;
+- develop web-based interventions;
+- research and develop new learning mechanisms to train efficient networks with available training dataset;
+- design novel and efficient learning framework tailored for a specific application;
+- write papers and proposals; and
+- perform any other duties as assigned by the project leader or his/her delegates.
+
+*Qualifications*
+
+1. have a doctoral degree in Nursing, Public Health, Rehabilitation, Psychology, Computer Science  or an equivalent qualification and must have no more than five years of post-qualification experience at the time of application; 
+2. have experience in writing research papers and proposals; 
+3. have good academic writing skills in English with publications in refereed journals;
+4. have a good command of both written and spoken English and Chinese;
+5. have proficiency in SPSS and Microsoft Office software including Chinese word processing;
+6. have good interpersonal and communication skills; 
+7. have a strong enthusiasm in research and a good sense of self-motivation; and
+8. be responsible and able to work independently.
+
+</p>
+
+**Interested? Please don’t hesitate to contact me for further information.**
 
 <!-- ### Bsc / Master students from elsewhere
 If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation). -->
