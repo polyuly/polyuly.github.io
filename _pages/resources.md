@@ -9,6 +9,31 @@ permalink: /resources/
 # Research Resource
 
 ## Research Videos
+<style scoped>
+table {
+  font-size: 25px;
+}
+</style>
+
+<table>
+<tr>
+    <td>
+     AI-driven Vaccine Communicator——Auricle    
+    </td>
+    <td>
+    Spinal Cord Injury Exercises 
+    </td>
+    </tr>
+
+<tr>
+    <td style="padding-right:10px;">
+<iframe width="500px" height="300px" src="https://www.youtube.com/embed/BLwYI15MzEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </td>
+    <td style="padding-right:10px;">
+<iframe width="500px" height="300px" src="https://www.youtube.com/embed/zxGHR84AUjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </td>
+    </tr>
+</table>
 
 ### AI-driven Vaccine Communicator——Auricle
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BLwYI15MzEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
