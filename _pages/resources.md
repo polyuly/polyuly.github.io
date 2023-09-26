@@ -33,16 +33,7 @@ table {
 <iframe width="500px" height="300px" src="https://www.youtube.com/embed/zxGHR84AUjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
     </tr>
-</table>
 
-
-<style scoped>
-table {
-  font-size: 25px;
-}
-</style>
-
-<table>
 <tr>
     <td>
     Traditional Chinese Medicine:Chinese Acupressure Programme Introduction (Constipation)    
@@ -60,16 +51,6 @@ table {
 <iframe width="500px" height="300px" src="https://www.youtube.com/embed/O4IbUtrbtV8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
     </tr>
-</table>
-
-
-<style scoped>
-table {
-  font-size: 25px;
-}
-</style>
-
-<table>
 <tr>
     <td>
     Traditional Chinese Medicine:Full set of sitting position acupressure (Abdomen and Limbs)   
@@ -87,16 +68,6 @@ table {
 <iframe width="500px" height="300px" src="https://www.youtube.com/embed/AM7z0TH3-Fo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
     </tr>
-</table>
-
-
-<style scoped>
-table {
-  font-size: 25px;
-}
-</style>
-
-<table>
 <tr>
     <td>
     Traditional Chinese Medicine:Full set of sitting position acupressure (Abdomen and Back)   
