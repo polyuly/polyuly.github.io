@@ -8,10 +8,8 @@ permalink: /vacancies
 
 # Open Positions
 
-## We are always looking for new group members with passion, talent, and grit!
+### We are always looking for new group members with passion, talent, and grit!
 
-
-<p align = "center">
 
 **Ph.D. Students**
 
@@ -40,9 +38,6 @@ permalink: /vacancies
 - Undergraduate and master's degree certificates
 - Electronic copies of representative achievements reflecting your academic level
 
-</p>
-
-<p align = "center">
 
 **Postdoctoral Fellow**
 
@@ -66,8 +61,6 @@ The appointee will assist the project leader in the research project - “Digita
 6. have good interpersonal and communication skills; 
 7. have a strong enthusiasm in research and a good sense of self-motivation; and
 8. be responsible and able to work independently.
-
-</p>
 
 **Interested? Please don’t hesitate to contact me for further information.**
 
