@@ -9,7 +9,8 @@ permalink: /vacancies
 # Open Positions
 
 
-**Ph.D. Students**
+
+### **Ph.D. Students**
 
 *Application Requirements*
 
@@ -37,7 +38,7 @@ permalink: /vacancies
 *   Electronic copies of representative achievements reflecting your academic level
 
 
-**Postdoctoral Fellow**
+### **Postdoctoral Fellow**
 
 *Duties*
 
