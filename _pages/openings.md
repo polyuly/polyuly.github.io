@@ -15,11 +15,11 @@ permalink: /vacancies
 
 1. Hold (or about to obtain) a master's degree or first-class honors bachelor's degree (or equivalent qualification) in nursing, medicine, or a related discipline.
 2. Strong academic and research background (fulfilling one of the following criteria is sufficient):
-- Bachelor's degree from a top 500 university in the world or top 150 in the subject rankings (QS/THE/ARWU) with an undergraduate GPA ≥ 3.2/4.0 (or top 40% of the class).
-- Published as first/second/corresponding author in ≥ 1 JCR Q1 article or ≥ 2 JCR Q2 articles.
+*   Bachelor's degree from a top 500 university in the world or top 150 in the subject rankings (QS/THE/ARWU) with an undergraduate GPA ≥ 3.2/4.0 (or top 40% of the class).
+*   Published as first/second/corresponding author in ≥ 1 JCR Q1 article or ≥ 2 JCR Q2 articles.
 3. Proficiency in spoken and written English (fulfilling one of the following criteria is sufficient, language test scores are valid for up to two years from the test date):
-- Overall IELTS score not lower than 6.5.
-- TOEFL score not lower than 80 (Internet-based test).
+*   Overall IELTS score not lower than 6.5.
+*   TOEFL score not lower than 80 (Internet-based test).
 4. Passion for scientific research, diligence, independence, teamwork skills, and candidates with a clinical background are preferred.
 
 *Salary and Application Deadline*
@@ -31,10 +31,10 @@ permalink: /vacancies
 1. Submit application materials via email(yan-nursing.li@polyu.edu.hk).
 2. In the subject line of the email, indicate: PhD Application + (Applicant Name) + (Graduation time).
 3. Please attach the following documents:
-- Personal CV (in English)
-- Undergraduate and master's transcripts
-- Undergraduate and master's degree certificates
-- Electronic copies of representative achievements reflecting your academic level
+*   Personal CV (in English)
+*   Undergraduate and master's transcripts
+*   Undergraduate and master's degree certificates
+*   Electronic copies of representative achievements reflecting your academic level
 
 
 **Postdoctoral Fellow**
