@@ -57,7 +57,7 @@ table {
 <iframe width="500px" height="300px" src="https://www.youtube.com/embed/ImZCn3zD9-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
     <td style="padding-right:10px;">
-<iframe width="500px" height="300px" src="https://www.youtube.com/embed/zxGHR84AUjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500px" height="300px" src="https://www.youtube.com/embed/O4IbUtrbtV8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
     </tr>
 </table>
@@ -72,7 +72,7 @@ table {
 <table>
 <tr>
     <td>
-    Traditional Chinese Medicine:Full set of sitting position acupressure (Abdomen and Back)   
+    Traditional Chinese Medicine:Full set of sitting position acupressure (Abdomen and Limbs)   
     </td>
     <td>
     中醫學：整套平臥位穴位按摩流程
@@ -81,7 +81,7 @@ table {
 
 <tr>
     <td style="padding-right:10px;">
-<iframe width="500px" height="300px" src="https://www.youtube.com/embed/O4IbUtrbtV8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500px" height="300px" src="https://www.youtube.com/embed/Mynn1VStUMQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
     <td style="padding-right:10px;">
 <iframe width="500px" height="300px" src="https://www.youtube.com/embed/AM7z0TH3-Fo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
