@@ -30,7 +30,7 @@ permalink: /research/
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
-</div> -->
+</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -44,7 +44,7 @@ permalink: /research/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 * Chatbot-based mindfulness interventions for young adults with symptoms of depression: a feasibility study. Start-up Fund for RAPs under the Strategic Hiring Scheme. **Principal Investigator**, 1 January 2022-31 December 2023.
 
