@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Research/Academic Grants As Principal Investigator
 
-{% assign number_printed = 0 %}
+<!-- {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -30,7 +30,7 @@ permalink: /research/
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
-</div>
+</div> -->
 
 {% assign number_printed = number_printed | plus: 1 %}
 
