@@ -1,6 +1,6 @@
 ---
 title: "Digital Mental Health Research Group- Research Fund"
-layout: layout: gridlay
+layout: gridlay
 excerpt: "Digital Mental Health Research Group-- Research Fund"
 sitemap: false
 permalink: /research/
