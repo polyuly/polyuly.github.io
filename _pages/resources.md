@@ -86,3 +86,70 @@ table {
     </td>
     </tr>
 </table>
+
+
+## Research Posters
+<style scoped>
+table {
+  font-size: 25px;
+}
+</style>
+
+<table>
+<tr>
+    <td>
+     智能疫苗助理的成效研究    
+    </td>
+    </tr>
+
+<tr>
+  <td> <img src="AI chatbot1.png"  alt="1" width = 500px height = 640px ></td>
+  <td><img src="AI chatbot2.png" alt="2" width = 500px height = 640px></td>
+    </td>
+    </tr>
+
+<tr>
+    <td>
+     虛擬聊天機器人主導的靜觀減壓課程之研究    
+    </td>
+    <td>
+     便秘的中醫調理方法
+    </td>
+    </tr>
+
+<tr>
+  <td> <img src="Mindfulness.jpeg"  alt="1" width = 500px height = 640px ></td>
+  <td><img src="TCM_Talk.png" alt="2" width = 500px height = 640px></td>
+    </td>
+    </tr>
+
+<tr>
+    <td>
+     身心綜合干預模式對脊髓損傷人士的效果研究    
+    </td>
+    <td>
+     穴位按壓居於社區的對脊髓損傷患者便秘的成效研究 
+    </td>
+    </tr>
+
+<tr>
+  <td> <img src="PPI.jpeg"  alt="1" width = 500px height = 640px ></td>
+  <td><img src="TCM.jpeg" alt="2" width = 500px height = 640px></td>
+    </td>
+    </tr>
+
+<tr>
+    <td>
+     Relationships among Self-Esteem, Parental Psychological Control, and Social Support: a Cross-sectional Study in Hong Kong Adolescents   
+    </td>
+    <td>
+     Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions
+    </td>
+    </tr>
+
+<tr>
+  <td> <img src="FYP_Poster.png"  alt="1" width = 500px height = 640px ></td>
+  <td><img src="SR_Poster.png" alt="2" width = 500px height = 640px></td>
+    </td>
+    </tr>
+</table>
