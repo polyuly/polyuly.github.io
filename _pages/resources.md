@@ -88,12 +88,6 @@ table {
 </table>
 
 ## Research Posters
-<style scoped>
-table {
-  font-size: 25px;
-}
-</style>
-
 <table>
 <tr>
     <td>
@@ -102,8 +96,8 @@ table {
     </tr>
 
 <tr>
- <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot1.png"  alt="1" width="95%"></td>
- <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot2.png" alt="2" width="95%"></td>
+ <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI chatbot1.png"  alt="1" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI chatbot2.png" alt="2" width="95%"></td>
     </td>
     </tr>
 
@@ -117,7 +111,7 @@ table {
     </tr>
 
 <tr>
- <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/Mindfulness.jpeg.png"  alt="1" width="95%"></td>
+ <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/Mindfulness1.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/TCM_Talk.png" alt="2" width="95%"></td>
     </td>
     </tr>
@@ -132,7 +126,7 @@ table {
     </tr>
 
 <tr>
- <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/PPI.jpeg.png"  alt="1" width="95%"></td>
+ <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/PPI.jpeg"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/TCM.jpeg" alt="2" width="95%"></td>
     </td>
     </tr>
