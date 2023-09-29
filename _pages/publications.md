@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Representative Publications 
 
-### 2023
+### 2023 
 
 <p align = "justify">
 
