@@ -132,6 +132,7 @@ table {
     </td>
     <td>
      Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions
+    </td>
 </tr>
 <tr>
     <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/FYP_Poster.png"  alt="1" width="95%"></td>
