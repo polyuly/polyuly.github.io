@@ -94,7 +94,6 @@ table {
      智能疫苗助理的成效研究    
     </td>
     </tr>
-
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI chatbot1.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI chatbot2.png" alt="2" width="95%"></td>
@@ -109,7 +108,6 @@ table {
      便秘的中醫調理方法
     </td>
     </tr>
-
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/Mindfulness1.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/TCM_Talk.png" alt="2" width="95%"></td>
@@ -124,7 +122,6 @@ table {
      穴位按壓居於社區的對脊髓損傷患者便秘的成效研究 
     </td>
     </tr>
-
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/PPI.jpeg"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/TCM.jpeg" alt="2" width="95%"></td>
@@ -139,7 +136,6 @@ table {
      Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions
     </td>
     </tr>
-
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/FYP_Poster.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/SR_Poster.png" alt="2" width="95%"></td>
