@@ -91,7 +91,7 @@ table {
 <table>
 <tr>
     <td>
-     智能疫苗助理的成效研究    
+     智能疫苗助理的成效研究
     </td>
     </tr>
 <tr>
@@ -102,7 +102,7 @@ table {
 
 <tr>
     <td>
-     虛擬聊天機器人+靜觀減壓課程  
+     虛擬聊天機器人+靜觀減壓課程
     </td>
     <td>
      便秘的中醫調理方法
@@ -116,10 +116,10 @@ table {
 
 <tr>
     <td>
-     身心綜合干預對脊髓損傷人士的效果研究    
+     身心綜合干預對脊髓損傷人士的效果研究 
     </td>
     <td>
-     穴位按壓對脊髓損傷患者便秘的成效研究 
+     穴位按壓對脊髓損傷患者便秘的成效研究
     </td>
     </tr>
 <tr>
@@ -130,7 +130,7 @@ table {
 
 <tr>
     <td>
-     Relationships among Self-Esteem, Parental Psychological Control, and Social Support   
+     Relationships among Self-Esteem, Parental Psychological Control, and Social Support
     </td>
     <td>
      Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions
