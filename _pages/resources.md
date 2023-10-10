@@ -106,6 +106,7 @@ table {
    <tr>
       <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/Mindfulness1.png"  alt="1" width="95%"></td>
       <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/TCM_Talk.png" alt="2" width="95%"></td>
+   </tr>
    <tr>
       <td>
          身心綜合干預對脊髓損傷人士的效果研究 
