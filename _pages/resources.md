@@ -110,7 +110,7 @@ table {
     </tr>
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Mandy1.png"  alt="1" width="95%"></td>
- <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_YINC_Ada1.png" alt="2" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Ada1.png" alt="2" width="95%"></td>
     </td>
     </tr>
 
@@ -124,7 +124,7 @@ table {
     </tr>
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Mandy2.png"  alt="1" width="95%"></td>
- <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_YINC_Ada2.png" alt="2" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Ada2.png" alt="2" width="95%"></td>
     </td>
     </tr>
 
