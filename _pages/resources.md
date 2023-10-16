@@ -97,7 +97,6 @@ table {
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Sally.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/3 Jan_PPI Poster Presentation.png" alt="2" width="95%"></td>
-    </td>
     </tr>
 
 <tr>
@@ -111,7 +110,6 @@ table {
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Mandy1.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Ada1.png" alt="2" width="95%"></td>
-    </td>
     </tr>
 
 <tr>
@@ -120,12 +118,10 @@ table {
     </td>
     <td>
      Chatbot-based Mindfulness Intervention for Young Adults with Symptoms of Depression
-    </td>
     </tr>
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Mandy2.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Ada2.png" alt="2" width="95%"></td>
-    </td>
     </tr>
 
 <tr>
@@ -136,7 +132,6 @@ table {
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI chatbot1.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI chatbot2.png" alt="2" width="95%"></td>
-    </td>
     </tr>
 
 <tr>
@@ -150,7 +145,6 @@ table {
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/Mindfulness1.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/TCM_Talk.png" alt="2" width="95%"></td>
-    </td>
     </tr>
 
 <tr>
@@ -164,7 +158,6 @@ table {
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/PPI.jpeg"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/TCM.jpeg" alt="2" width="95%"></td>
-    </td>
     </tr>
 
 <tr>
@@ -178,6 +171,5 @@ table {
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/FYP_Poster.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/SR_Poster.png" alt="2" width="95%"></td>
-    </td>
     </tr>
 </table>
