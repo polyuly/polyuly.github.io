@@ -91,6 +91,48 @@ table {
 <table>
 <tr>
     <td>
+     Feasibility and Effectiveness of Artificial Intelligence-Driven Conversational Agents in Healthcare Interventions
+    </td>
+    <td>
+     Evaluation of a Physical-Psychological Integrative intervention for community-dwelling spinal cord injury survivors
+    </td>
+    </tr>
+<tr>
+ <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Sally.png"  alt="1" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/3 Jan_PPI Poster Presentation.png" alt="2" width="95%"></td>
+    </td>
+    </tr>
+
+<tr>
+    <td>
+     The Development of a Web-based Psychoeducation Programme with a Motivational Artificial Intelligence-based Chatbot to Decrease Vaccine Hesitancy
+    </td>
+    <td>
+     Revisiting Attitudes Towards Covid-19 Vaccines Among Hong Kong Adults: Does The Individual Perception of Health Condition Matter?
+    </td>
+    </tr>
+<tr>
+ <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Mandy1.png"  alt="1" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_YINC_Ada1.png" alt="2" width="95%"></td>
+    </td>
+    </tr>
+
+<tr>
+    <td>
+     Development of a Mindfulness-based Chatbot on mental health promotion among College Students
+    </td>
+    <td>
+     Chatbot-based Mindfulness Intervention for Young Adults with Symptoms of Depression
+    </td>
+    </tr>
+<tr>
+ <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Mandy2.png"  alt="1" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_YINC_Ada2.png" alt="2" width="95%"></td>
+    </td>
+    </tr>
+
+<tr>
+    <td>
      智能疫苗助理的成效研究
     </td>
     </tr>
