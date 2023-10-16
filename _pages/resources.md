@@ -118,6 +118,7 @@ table {
     </td>
     <td>
      Chatbot-based Mindfulness Intervention for Young Adults with Symptoms of Depression
+    </td>
     </tr>
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Mandy2.png"  alt="1" width="95%"></td>
@@ -140,7 +141,7 @@ table {
     </td>
     <td>
      便秘的中醫調理方法
-    </td>
+
     </tr>
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/Mindfulness1.png"  alt="1" width="95%"></td>
