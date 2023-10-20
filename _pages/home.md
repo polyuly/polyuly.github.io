@@ -58,16 +58,9 @@ Dr Li has published around 20 peer-reviewed journal articles and she has served 
   </a>
 </div>
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border: none;">
-  <tbody style="border: none;">
-    <tr style="border: none;">
-      <td width="100%" align="middle" style="border: none;">
-      <p align="center" style="width: 100% " >
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R_0d09uua1WeNbXl0qVSMb_mAH2E4jEZK6rk5Y4T40g&cl=ffffff&w=a"></script>
-      </p></td>
-    </tr>
-  </tbody>
-</table>
+<p align="center" style="width: 100% ;height: 200px" >
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R_0d09uua1WeNbXl0qVSMb_mAH2E4jEZK6rk5Y4T40g&cl=ffffff&w=a"></script>
+</p>
 
 
 
