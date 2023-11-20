@@ -6,8 +6,6 @@ sitemap: false
 permalink: /member/
 ---
 
-# Group Members
-
 <!-- **We are  looking for new Research Assistant, Postdoc, or MSc students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)  -->
 
 
