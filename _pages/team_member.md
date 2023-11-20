@@ -3,7 +3,7 @@ title: " Group - Team"
 layout: gridlay
 excerpt: "Digital Preventive Healthcare Research Group: Team members"
 sitemap: false
-permalink: /team/
+permalink: /member/
 ---
 
 # Group Members
