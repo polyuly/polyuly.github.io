@@ -1,9 +1,9 @@
 ---
 title: " Group - Team"
 layout: gridlay
-excerpt: "Digital Preventive Healthcare Research Group: Team members"
+excerpt: "Digital Preventive Healthcare Research Group: Team leader"
 sitemap: false
-permalink: /team/
+permalink: /leader/
 ---
 
 # Group Members
