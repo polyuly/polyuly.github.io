@@ -1,7 +1,7 @@
 ---
-title: "Digital Mental Health Research Group- Research Fund"
+title: "Digital Preventive Healthcare Research Group- Research Fund"
 layout: gridlay
-excerpt: "Digital Mental Health Research Group-- Research Fund"
+excerpt: "Digital Preventive Healthcare Research Group-- Research Fund"
 sitemap: false
 permalink: /research/
 ---

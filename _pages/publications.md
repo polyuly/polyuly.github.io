@@ -1,7 +1,7 @@
 ---
-title: "Digital Mental Health Research Group - Publications and Projects"
+title: "Digital Preventive Healthcare Research Group - Publications and Projects"
 layout: gridlay
-excerpt: "Digital Mental Health Research Group -- Publications and Projects."
+excerpt: "Digital Preventive Healthcare Research Group -- Publications and Projects."
 sitemap: false
 permalink: /publications/
 ---

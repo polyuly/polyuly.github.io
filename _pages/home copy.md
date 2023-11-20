@@ -1,7 +1,7 @@
 ---
-title: "Digital Mental Health Research Group: - Home"
+title: "Digital Preventive Healthcare Research Group: - Home"
 layout: homelay
-excerpt: "Digital Mental Health Research Group at HK PolyU"
+excerpt: "Digital Preventive Healthcare Research Group at HK PolyU"
 sitemap: false
 permalink: /
 ---
