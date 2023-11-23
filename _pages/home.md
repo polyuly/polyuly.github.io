@@ -5,6 +5,9 @@ excerpt: "Digital Preventive Healthcare Research Group at HK PolyU"
 sitemap: false
 permalink: /
 ---
+
+## Group vision and mission
+
 <p align = "justify">
 
 Our **vision** is to be a leading research group in the field of digital preventive healthcare, advancing knowledge, improving healthcare outcomes, and promoting wellness in individuals and communities.
@@ -13,7 +16,7 @@ Our **vision** is to be a leading research group in the field of digital prevent
 
 <p align = "justify">
 
-Our mission:
+Our **mission**:
 1. Conduct cutting-edge research: Our mission is to conduct innovative research in the area of digital preventive healthcare, including the development and evaluation of digital tools and interventions. For example, we are now working on the web/AI-based intervention to enhance vaccine accessibility, acceptance, and uptake.
 2. Empower individuals and communities: We are committed to empowering individuals and communities by providing them with digital tools, resources, and education that promote proactive health management, preventive care, and overall well-being.
 3. Collaborate for impact: We strive to collaborate with interdisciplinary teams, healthcare professionals, technology experts, and community stakeholders to develop and implement effective digital preventive healthcare interventions and solutions.
@@ -67,6 +70,12 @@ Our mission:
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+## Research Fields
+1. Spinal Cord Injury Rehabilitation;
+2. Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation);
+3. Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions.
+
 
 <!-- <p align="center" style="width: 50%" >
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R_0d09uua1WeNbXl0qVSMb_mAH2E4jEZK6rk5Y4T40g&cl=ffffff&w=a"></script>
