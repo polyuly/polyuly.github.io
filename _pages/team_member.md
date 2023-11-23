@@ -123,7 +123,7 @@ permalink: /member/
 
 ## PhD Student
 {% assign number_printed = 0 %}
-{% for member in site.data.postdoc %}
+{% for member in site.data.phd_student %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
