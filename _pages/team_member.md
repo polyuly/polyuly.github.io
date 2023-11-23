@@ -68,7 +68,7 @@ permalink: /member/
 {% endif %} -->
 ## Postdoctoral Research Fellow
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.postdoc %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
