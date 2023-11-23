@@ -7,19 +7,16 @@ permalink: /
 ---
 <p align = "justify">
 
-Dr Yan Li is an Assistant Professor at the [School of Nursing](https://www.polyu.edu.hk/sn/), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/). She completed her postdoctoral training at Florence Nightingale Faculty of Nursing, Midwifery, and Palliative care from 2019-2020. 
+Our **vision** is to be a leading research group in the field of digital preventive healthcare, advancing knowledge, improving healthcare outcomes, and promoting wellness in individuals and communities.
 
 </p>
 
 <p align = "justify">
 
-Dr Li is a registered nurse with over 8 years of experience, and she is an active nurse researcher. Her research interest is spinal cord injury rehabilitation, psychosocial interventions, and mental health promotion. Her work was supported by Prof Ida Martinson Fund and King’s College London Global Research Grant. She has recently been awarded the Hong Kong Government Health and Medical Research Fund Research Fellowship to continue her research work and contribution towards local service innovation and research development in the area of mental health within spinal cord injury community rehabilitation. 
-
-</p>
-
-<p align = "justify">
-
-Dr Li has published around 20 peer-reviewed journal articles and she has served as a reviewer for the Journal of Nursing Scholarship, Disability and Rehabilitation, International Journal of Interprofessional Care, BMC geriatrics, Spinal Cord and Journal of Spine surgery.
+Our mission:
+1. Conduct cutting-edge research: Our mission is to conduct innovative research in the area of digital preventive healthcare, including the development and evaluation of digital tools and interventions. For example, we are now working on the web/AI-based intervention to enhance vaccine accessibility, acceptance, and uptake.
+2. Empower individuals and communities: We are committed to empowering individuals and communities by providing them with digital tools, resources, and education that promote proactive health management, preventive care, and overall well-being.
+3. Collaborate for impact: We strive to collaborate with interdisciplinary teams, healthcare professionals, technology experts, and community stakeholders to develop and implement effective digital preventive healthcare interventions and solutions.
 
 </p>
 
