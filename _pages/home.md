@@ -37,17 +37,30 @@ Our mission:
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/meeting.jpg" alt="Slide 0" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/groupphoto3.jpg" alt="Slide 0" />
         </div>
       <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/conference_Lina.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/groupphoto2.jpg" alt="Slide 1" />
         </div>
-
+      <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/groupphoto5.jpg" alt="Slide 1" />
+        </div>
+      <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/groupphoto4.jpg" alt="Slide 1" />
+        </div>
         
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
   </a>
   <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
