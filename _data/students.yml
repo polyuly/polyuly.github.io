@@ -68,14 +68,6 @@
   education1: Master of Nursing, The Hong Kong PolyU, 2024
   education2: BSc (Honours) in Mental Health Nursing, The Hong Kong PolyU, 2020
 
-- name: Law Yi Man 羅伊妏 
-  photo: Yuki.jpg
-  info: Student Assistant
-  research_interest: Mental health
-  email: 20048741d@connect.polyu.hk
-  number_educ: 1
-  education1: BSc in Mental Health Nursing, The Hong Kong Polytechnic University, 2025
-
 - name: LAM YIM PING 林艷萍
   photo: Mono.png
   info: Research Assistant (RSW)
@@ -84,6 +76,14 @@
   number_educ: 2
   education1: Master in Early Childhood Education, The Chinese University of Hong Kong, 2021
   education2: BSSs (Honours) in Psychology, The Hong Kong Polytechnic University, SPEED, 2020
+
+- name: Law Yi Man 羅伊妏 
+  photo: Yuki.jpg
+  info: Student Assistant
+  research_interest: Mental health
+  email: 20048741d@connect.polyu.hk
+  number_educ: 1
+  education1: BSc in Mental Health Nursing, The Hong Kong Polytechnic University, 2025
 
 - name: Sun Hei Mang 孫曦萌 
   photo: Sue.jpg
