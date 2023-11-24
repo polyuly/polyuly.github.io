@@ -7,22 +7,6 @@
 #  education2:
 #  education3:
 #  education4:
-- name: Chung Tsz-yu 鍾子裕
-  photo: Mark.jpg
-  info: Master Student
-  research_interest: AI-based intervention
-  email: tsz-yu.chung@connect.polyu.hk
-  number_educ: 2
-  education1: Master of Nursing, The Hong Kong Polytechnic University, 2024
-  education2: BSc (Honours) in Mental Health Nursing, The Hong Kong Polytechnic University, 2020
-
-- name: Chan Yuk Kwan 陳昱君 
-  photo: Yulia.png
-  info: Student Assistant
-  research_interest: Mental health
-  email: yulia.chan@connect.polyu.hk
-  number_educ: 1
-  education1: BSc in Mental Health Nursing, The Hong Kong Polytechnic University, 2025
 
 - name: He Mengting 何梦婷
   photo: mandyupdated.jpg
@@ -33,14 +17,6 @@
   education1: MSc, The Hong Kong University of Science and Technology, 2022
   education2: B.Eng, Xiang’tan University, 2018
 
-- name: Li Jiaying 李佳颖
-  photo: Janice.jpg
-  info: Research Assistant 
-  research_interest: Mental health promotion, Adolescent idiopathic scoliosis rehabilitation
-  email: jia-ying.li@polyu.edu.hk
-  number_educ: 2
-  education1: Master in Nursing, Xi'an Jiaotong University, 2022
-  education2: Bachelor of Natural Science, China Medical University, 2019
 
 - name: Lee Kit Ching 李潔貞
   photo: Ada.jpg
@@ -59,14 +35,6 @@
   number_educ: 1
   education1: BSc (Psychology), Upper Iowa University (2015)
 
-- name: Lam Mo In 林慕妍
-  photo: JennyMSc.jpg
-  info: Master Student
-  research_interest: Mental health
-  email: mo-in.lam@connect.polyu.hk
-  number_educ: 2
-  education1: Master of Nursing, The Hong Kong PolyU, 2024
-  education2: BSc (Honours) in Mental Health Nursing, The Hong Kong PolyU, 2020
 
 - name: LAM YIM PING 林艷萍
   photo: Mono.png
@@ -77,22 +45,6 @@
   education1: Master in Early Childhood Education, The Chinese University of Hong Kong, 2021
   education2: BSSs (Honours) in Psychology, The Hong Kong Polytechnic University, SPEED, 2020
 
-- name: Law Yi Man 羅伊妏 
-  photo: Yuki.jpg
-  info: Student Assistant
-  research_interest: Mental health
-  email: 20048741d@connect.polyu.hk
-  number_educ: 1
-  education1: BSc in Mental Health Nursing, The Hong Kong Polytechnic University, 2025
-
-- name: Sun Hei Mang 孫曦萌 
-  photo: Sue.jpg
-  info: Student Assistant
-  research_interest: Children and Adolescent Mental Health, Psychotherapy
-  email: hei-mang.sun@connect.polyu.hk
-  number_educ: 1
-  education1: BSc in Mental Health Nursing, The Hong Kong Polytechnic University, 2025
-
 - name: Sun Tsz Ching 孫芷晴
   photo: SallyRA.jpg
   info: Research Assistant
@@ -101,12 +53,3 @@
   number_educ: 2
   education1: Master of Applied Psychology, The Hong Kong Polytechnic University, 2021
   education2: B.S, The Hong Kong Polytechnic University, 2020
-
-- name: Zhang Xuantao 张轩涛
-  photo: Jeff.jpg
-  info: Student Assistant
-  research_interest: AI, Bioinformatics, Medical informatics
-  email: xzhang2733@wisc.edu
-  number_educ: 1
-  education1: BSc in Computer Science, The Hong Kong Polytechnic University, 2023
-  education1: BSc in Computer Science, University of Wisconsin-Madison, 2026
