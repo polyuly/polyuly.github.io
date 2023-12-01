@@ -95,6 +95,19 @@ table {
     </td>
     </tr>
 <tr>
+ <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/PPCR_Janice poster.png"  alt="1" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/PPCR_Lina poster-1.png" alt="2" width="95%"></td>
+    </tr>
+
+<tr>
+    <td>
+     Feasibility and Effectiveness of Artificial Intelligence-Driven Conversational Agents in Healthcare Interventions
+    </td>
+    <td>
+     Evaluation of a Physical-Psychological Integrative intervention for community-dwelling spinal cord injury survivors
+    </td>
+    </tr>
+<tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/YINC_Sally.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/3 Jan_PPI Poster Presentation.png" alt="2" width="95%"></td>
     </tr>
