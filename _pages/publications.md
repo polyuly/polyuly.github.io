@@ -30,7 +30,7 @@ permalink: /publications/
 
 </p>
 
-[**Best Poster Presentation Award**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EX0AHSwoSB9Pl629VeMJbHABzrAwf6zM-54WFCoh1fiEVQ?e=eG6mD5) in 2023 Yonsei International Nursing Conference
+[**Best Poster Presentation Award**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EX0AHSwoSB9Pl629VeMJbHABzrAwf6zM-54WFCoh1fiEVQ?e=mjYnRh) in 2023 Yonsei International Nursing Conference
 
 ### 2022
 
