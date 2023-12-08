@@ -19,9 +19,9 @@ permalink: /publications/
 
 </p>
 
-1.[**Best Poster Presentation Award**] in 2023 Yonsei International Nursing Conference: ("https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EScu3Vc6ZmBGkvOF2XYoaNMBIKZp0xbKJiv34G3MASxolg?e=DmIAfJ")
+1.[**Best Poster Presentation Award**]("https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EScu3Vc6ZmBGkvOF2XYoaNMBIKZp0xbKJiv34G3MASxolg?e=DmIAfJ") in 2023 Yonsei International Nursing Conference
 
-2.[**Recruitment Poster**]: ("https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EcpzBSYgvQNGnXOoIT8du60Byd6jXm2quL7GmM-NO_KOhQ?e=mHI0ob:)
+2.[**Recruitment Poster**]("https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EcpzBSYgvQNGnXOoIT8du60Byd6jXm2quL7GmM-NO_KOhQ?e=mHI0ob:)
 
 
 <p align = "justify">
@@ -30,7 +30,7 @@ permalink: /publications/
 
 </p>
 
-[**Best Poster Presentation Award**] in 2023 Yonsei International Nursing Conference: ("https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EX0AHSwoSB9Pl629VeMJbHABzrAwf6zM-54WFCoh1fiEVQ?e=eG6mD5")
+[**Best Poster Presentation Award**]("https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EX0AHSwoSB9Pl629VeMJbHABzrAwf6zM-54WFCoh1fiEVQ?e=eG6mD5") in 2023 Yonsei International Nursing Conference
 
 ### 2022
 
