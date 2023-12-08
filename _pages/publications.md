@@ -18,27 +18,20 @@ permalink: /publications/
 - **Li, Y.**, Liang, S., Zhu, B., Liu, X., Li, J., Chen, D., ... & Bressington, D. (2023). Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions: A systematic review of randomized controlled trials. **International Journal of Nursing Studies**, 104494.
 
 </p>
-<p align = "justify">
 
-**Best Poster Presentation Award** in 2023 Yonsei International Nursing Conference: https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EScu3Vc6ZmBGkvOF2XYoaNMBIKZp0xbKJiv34G3MASxolg?e=DmIAfJ
+1.[**Best Poster Presentation Award**] in 2023 Yonsei International Nursing Conference: ("https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EScu3Vc6ZmBGkvOF2XYoaNMBIKZp0xbKJiv34G3MASxolg?e=DmIAfJ")
 
-</p>
-<p align = "justify">
+2.[**Recruitment Poster**]: ("https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EcpzBSYgvQNGnXOoIT8du60Byd6jXm2quL7GmM-NO_KOhQ?e=mHI0ob:)
 
-**Recruitment Poster**: https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EcpzBSYgvQNGnXOoIT8du60Byd6jXm2quL7GmM-NO_KOhQ?e=mHI0ob
-
-</p>
 
 <p align = "justify">
 
 - **Li, Y.**, Wong, A., Chung, W. M., Li, M., Molasiotis, A., Bressington, D., ... & Yeung, W. F. (2023). Evaluation of a Physical-Psychological Integrative (PPI) intervention for community-dwelling spinal cord injury survivors: Study protocol of a preliminary randomized controlled trial. Plos one, 18(3), e0282846.
 
 </p>
-<p align = "justify">
 
-**Best Poster Presentation Award** in 2023 Yonsei International Nursing Conference: https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EX0AHSwoSB9Pl629VeMJbHABzrAwf6zM-54WFCoh1fiEVQ?e=eG6mD5
+[**Best Poster Presentation Award**] in 2023 Yonsei International Nursing Conference: ("https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EX0AHSwoSB9Pl629VeMJbHABzrAwf6zM-54WFCoh1fiEVQ?e=eG6mD5")
 
-</p>
 ### 2022
 
 <p align = "justify">
