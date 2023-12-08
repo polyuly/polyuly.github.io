@@ -144,8 +144,8 @@ table {
     </td>
     </tr>
 <tr>
- <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI chatbot1.png"  alt="1" width="95%"></td>
- <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI chatbot2.png" alt="2" width="95%"></td>
+ <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/phase3_1.jpg"  alt="1" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/phase3_2.jpg" alt="2" width="95%"></td>
     </tr>
 
 <tr>
