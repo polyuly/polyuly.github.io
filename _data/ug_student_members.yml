@@ -1,3 +1,17 @@
+- name: Chui Chun Hei 崔俊熙
+  photo: johnny.jpg
+  research_interest: Nursing practice
+  email: johnny0203.chui@connect.polyu.hk
+  number_educ: 1
+  education1: BSc (Hons) of Nursing, The Hong Kong Polytechnic University, 2027
+
+- name: Cheng Hing Yu 鄭慶瑜
+  photo: caranda1.jpeg
+  research_interest: General Nursing
+  email: hing-yu.cheng@connect.polyu.hk
+  number_educ: 1
+  education1: Bachelor of Science (Honours) in Nursing, The Hong Kong Polytechnic University, 2026
+
 - name: Cheung Ling Sum 張齡心 
   photo: mavis.JPG
   research_interest: Mental health
