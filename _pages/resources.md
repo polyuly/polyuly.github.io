@@ -96,7 +96,7 @@ table {
     </tr>
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/Recruitment poster-AS.jpg"  alt="1" width="95%"></td>
- <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/2 Feb_EAFONS #580_Sally drafted Yule.jpg" alt="2" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/EAFONS_yule.jpg" alt="2" width="95%"></td>
     </tr>
 
 <tr>
@@ -108,8 +108,8 @@ table {
     </td>
     </tr>
 <tr>
- <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/5 Feb_EAFONS_#943_Janice present Sally.jpg"  alt="1" width="95%"></td>
- <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/5 Feb_EAFONS #1132_Dr. Li present Sally.jpg" alt="2" width="95%"></td>
+ <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/EAFONS_Janice.jpg"  alt="1" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/EAFONS_DRLI.jpg" alt="2" width="95%"></td>
     </tr>
 
 <tr>
@@ -121,8 +121,8 @@ table {
     </td>
     </tr>
 <tr>
- <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/2 Feb_EAFONS #1133_Lina present Sally drafted.jpg"  alt="1" width="95%"></td>
- <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/5 Feb_EAFONS #1209_Xiaoxiao present Sally.jpg" alt="2" width="95%"></td>
+ <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/EAFONS_Lina.jpg"  alt="1" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/EAFONS_Xiaoxiao.jpg" alt="2" width="95%"></td>
     </tr>
 
 <tr>
