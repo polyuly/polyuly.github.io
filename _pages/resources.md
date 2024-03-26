@@ -91,20 +91,33 @@ table {
      1. 強脊心語招募計劃
     </td>
     <td>
-     2. Effectiveness of Telehealth Interventions on Cognitive Function in Patients with Neurological Disorders: A systematic Review and Meta-analysis
+     2. 智能疫苗助理招募計劃
     </td>
     </tr>
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/Recruitment poster-AS.jpg"  alt="1" width="95%"></td>
+ <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/phase3.jpg" alt="2" width="95%"></td>
+    </tr>
+
+<tr>
+    <td>
+     3. Effectiveness of interventions to improve cognitive function in adults with spinal cord injury: A Systematic Review
+    </td>
+    <td>
+     4. Effectiveness of Telehealth Interventions on Cognitive Function in Patients with Neurological Disorders: A systematic Review and Meta-analysis
+    </td>
+    </tr>
+<tr>
+ <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/EAFANS_yule2.jpg"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/EAFONS_yule.jpg" alt="2" width="95%"></td>
     </tr>
 
 <tr>
     <td>
-     3. “Am I different?” Coping and mental health among teenagers with adolescent idiopathic scoliosis: A qualitative study
+     5. “Am I different?” Coping and mental health among teenagers with adolescent idiopathic scoliosis: A qualitative study
     </td>
     <td>
-     4. Psychosocial Interventions for Teenagers with Adolescent Idiopathic Scoliosis: A Systematic Literature Review
+     6. Psychosocial Interventions for Teenagers with Adolescent Idiopathic Scoliosis: A Systematic Literature Review
     </td>
     </tr>
 <tr>
@@ -114,10 +127,10 @@ table {
 
 <tr>
     <td>
-     5. The Relationship Between Information Sources and Vaccine Hesitancy:The Mediating Roles of Trust in Government and Civic Duty
+     7. The Relationship Between Information Sources and Vaccine Hesitancy:The Mediating Roles of Trust in Government and Civic Duty
     </td>
     <td>
-     6. Identifying Influencing Factors and Interventions for Mental Health Problems in Patients with Ankylosing Spondylitis: A Scoping Review 
+     8. Identifying Influencing Factors and Interventions for Mental Health Problems in Patients with Ankylosing Spondylitis: A Scoping Review 
     </td>
     </tr>
 <tr>
@@ -127,10 +140,10 @@ table {
 
 <tr>
     <td>
-     7. Feasibility and Effectiveness of Artificial Intelligence-Driven Conversational Agents in Healthcare Interventions
+     9. Feasibility and Effectiveness of Artificial Intelligence-Driven Conversational Agents in Healthcare Interventions
     </td>
     <td>
-     8. Evaluation of a Physical-Psychological Integrative intervention for community-dwelling spinal cord injury survivors
+     10. Evaluation of a Physical-Psychological Integrative intervention for community-dwelling spinal cord injury survivors
     </td>
     </tr>
 <tr>
@@ -140,10 +153,10 @@ table {
 
 <tr>
     <td>
-    9. Feasibility and Effectiveness of Artificial Intelligence-Driven Conversational Agents in Healthcare Interventions
+    11. Feasibility and Effectiveness of Artificial Intelligence-Driven Conversational Agents in Healthcare Interventions
     </td>
     <td>
-    10. Evaluation of a Physical-Psychological Integrative intervention for community-dwelling spinal cord injury survivors
+    12. Evaluation of a Physical-Psychological Integrative intervention for community-dwelling spinal cord injury survivors
     </td>
     </tr>
 <tr>
@@ -153,10 +166,10 @@ table {
 
 <tr>
     <td>
-    11. The Development of a Web-based Psychoeducation Programme with a Motivational Artificial Intelligence-based Chatbot to Decrease Vaccine Hesitancy
+    13. The Development of a Web-based Psychoeducation Programme with a Motivational Artificial Intelligence-based Chatbot to Decrease Vaccine Hesitancy
     </td>
     <td>
-    12. Revisiting Attitudes Towards Covid-19 Vaccines Among Hong Kong Adults: Does The Individual Perception of Health Condition Matter?
+    14. Revisiting Attitudes Towards Covid-19 Vaccines Among Hong Kong Adults: Does The Individual Perception of Health Condition Matter?
     </td>
     </tr>
 <tr>
@@ -166,10 +179,10 @@ table {
 
 <tr>
     <td>
-    13. Development of a Mindfulness-based Chatbot on mental health promotion among College Students
+    15. Development of a Mindfulness-based Chatbot on mental health promotion among College Students
     </td>
     <td>
-    14. Chatbot-based Mindfulness Intervention for Young Adults with Symptoms of Depression
+    16. Chatbot-based Mindfulness Intervention for Young Adults with Symptoms of Depression
     </td>
     </tr>
 <tr>
@@ -179,21 +192,11 @@ table {
 
 <tr>
     <td>
-    15. 智能疫苗助理的成效研究
-    </td>
-    </tr>
-<tr>
- <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/phase3_1.jpg"  alt="1" width="95%"></td>
- <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/phase3_2.jpg" alt="2" width="95%"></td>
-    </tr>
-
-<tr>
-    <td>
-    16. 虛擬聊天機器人+靜觀減壓課程
+    17. 虛擬聊天機器人+靜觀減壓課程
     </td>
     <td>
-    17. 便秘的中醫調理方法
-
+    18. 便秘的中醫調理方法
+    </td>
     </tr>
 <tr>
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/Mindfulness1.png"  alt="1" width="95%"></td>
@@ -202,10 +205,10 @@ table {
 
 <tr>
     <td>
-    18. 身心綜合干預對脊髓損傷人士的效果研究 
+    19. 身心綜合干預對脊髓損傷人士的效果研究 
     </td>
     <td>
-    19. 穴位按壓對脊髓損傷患者便秘的成效研究
+    20. 穴位按壓對脊髓損傷患者便秘的成效研究
     </td>
     </tr>
 <tr>
@@ -215,10 +218,10 @@ table {
 
 <tr>
     <td>
-    20. Relationships among Self-Esteem, Parental Psychological Control, and Social Support
+    21. Relationships among Self-Esteem, Parental Psychological Control, and Social Support
     </td>
     <td>
-    21. Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions
+    22. Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions
     </td>
     </tr>
 <tr>
