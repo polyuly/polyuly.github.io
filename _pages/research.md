@@ -61,9 +61,3 @@ permalink: /research/
 * Global Research Grant. Personal Research Development Fund, **King's College London.**
 
 * Effectiveness of peer-delivered interventions for people with severe mental illness: A systematic review. Professor Ida Martinson Fund, EAFONS.
-
-
-## Research Fields
-1. Spinal Cord Injury Rehabilitation;
-2. Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation);
-3. Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions.
