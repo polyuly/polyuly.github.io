@@ -1,8 +1,5 @@
-- date: Test
-  headline: The [SuperC website](https://superc2033.com) is live! We are excited to be part of this journey!
-
 - date: 01 April 2024
-  headline: Participant needed! AI-driven Vaccine Communicator! See [poster](https://polyuly.github.io/images/poster/phase3.jpg) for more details!
+  headline: Participant needed! AI-driven Vaccine Communicator! See [poster](https://polyuly.github.io/images/poster/phase3.jpg){:target="_blank"} for more details!
 
 - date: 01 July 2022
   headline: Welcome to the PolyU Nursing Yan Li's lab— <b>our lab is starting</b>!
