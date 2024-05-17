@@ -62,6 +62,8 @@ permalink: /research/
 - Award: [**Best Poster Presentation Award**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EX0AHSwoSB9Pl629VeMJbHABzrAwf6zM-54WFCoh1fiEVQ?e=XpRyNL) in 2023 Yonsei International Nursing Conference
 
 4. Effects of caregiver-administrated acupressure intervention for community-dwelling spinal cord injury survivors with constipation: A randomized controlled trial; **Hong Kong Government Chinese Medicine Development Fund**, 1 April 2022- 31/March 2024. (Project No. 20B2/033A).
+- Conference Poster:[**Constipation and its related quality of life among community-dwelling spinal cord injury survivors: a cross-sectional study**](https://polyuit-my.sharepoint.com/:i:/g/personal/menghe_polyu_edu_hk/EbyOsgzaMEdHsesHfw5A37cB2fw81dgmNjbebhZBvPmDaQ?e=FZUblb) and [**Effect of Acupressure on Constipation in Community-dwelling People with Spinal Cord Injury: A Study Protocal for A Randomized Controlled Trial**](https://polyuit-my.sharepoint.com/:i:/g/personal/menghe_polyu_edu_hk/EVopGNnvMfZIiynFF_iSHekB24OLNv3qqWKBqm3JCyeThg?e=VTlfPM) in 13th Pan-Pacific Conference on Rehabilitation (2023)
+- Recruitment Poster:[**便秘的中醫調理方法研究招募計劃**](https://polyuit-my.sharepoint.com/:i:/g/personal/menghe_polyu_edu_hk/ERSq3hWAbUdBrAM0eftRkfABKiqeHsTaSSmTu7XT39s-aQ?e=1NTuVv) 
 
 5. Regular Sleep, Healthy Future - Promoting Sleep Health among College Students and Healthcare Professionals. Principal Investigator, 1 September, 2021 – 30 June, 2022, **UGC** Shanghai-Hong Kong University Alliance (SHUA) Open Bid Funding. 
 
