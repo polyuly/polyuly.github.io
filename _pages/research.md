@@ -47,14 +47,14 @@ permalink: /research/
 {% endif %} -->
 
 1. AI-driven Vaccine Communicator——智能疫苗助理: The impact of a Web-based psychoeducation programme with a motivational AI-based digital assistant on Covid-19 vaccine hesitancy in Hong Kong's population. Grant source: Health and Medical Research Fund, Food and Health Bureau, Commissioned Research on the Novel Coronavirus Disease (COVID-19).Project Ref No. COVID1903006.
-- Confrence Poster:
+- Conference Poster:
 [**The Development of a Web-based Psychoeducation Programme with a MotivationalArtificial Intelligencebased Chatbot to Decrease Vaccine Hesitancy**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/Eb-M8Fzm5LRErH3WbN5YyVYBMzMhgwgxylPpavWn-OGNIQ?e=m8r9Rz) and [**Revisiting Attitudes Towards Covid-19 Vaccines Among Hong Kong Adults: Does The Individual Perception of Health Condition Matter?**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EVjYuMdYsABDky8ECwT7CbUB_1bMq4W9iyUNHKPeWNKSUw?e=2VG7bN) in 2023 Yonsei International Nursing Conference
 - Recruitment Poster:[**智能疫苗助理的成效研究**](https://connectpolyu-my.sharepoint.com/:b:/g/personal/20104257g_connect_polyu_hk/ER-jeualX7ZGgucmp4s57KcB381kGm4d6Wd7Zn_3ArrFoQ?e=9VBIiH)
 - Award:[**Best Poster Presentation Award**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EScu3Vc6ZmBGkvOF2XYoaNMBIKZp0xbKJiv34G3MASxolg?e=DmIAfJ) in 2023 Yonsei International Nursing Conference
 
-
 2. Chatbot-based mindfulness interventions for young adults with symptoms of depression: a feasibility study. Start-up Fund for RAPs under the Strategic Hiring Scheme. 1 January 2022-31 December 2023.
-- Confrence Poster: 
+- Conference Poster: [**Chatbot-based Mindfulness Intervention for Young Adults with Symptoms of Depression: A Feasibility Study with Preliminary Effectiveness Testing**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EU8e9VH4N9ZIons-K4piaNEBRCw55MraO5JHuWKkS51sxA?e=JKUGqB) and [**Development of a Mindfulness-based Chatbot on mental health promotion among College Students**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EfVfNu9tk2hOlrc6AQYcGFUBA_wmsM25Fkx0_A9LqRvgzQ?e=vNG0lv) in 2023 Yonsei International Nursing Conference
+- Recruitment Poster:[**由虛擬聊天機器人主導的靜觀減壓課程之研究**](https://polyuit-my.sharepoint.com/:i:/g/personal/menghe_polyu_edu_hk/EUrQ2p6CsXZKo2NaS4Y8PSwBlU5sMNOIgnnpxKfIzxjH5Q?e=2n9Dal)
 
 * Effects of a Physical-Psychological Integrative (PPI) intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors: A Pilot Randomized Controlled Trial; **Health and Medical Research Fund—Research Fellowship Scheme. Principal Investigator**, 01/Sep/2021- 01/Sep/2023. Project No. 06200147.
 
