@@ -57,9 +57,9 @@ permalink: /research/
 - Recruitment Poster:[**由虛擬聊天機器人主導的靜觀減壓課程之研究**](https://polyuit-my.sharepoint.com/:i:/g/personal/menghe_polyu_edu_hk/EUrQ2p6CsXZKo2NaS4Y8PSwBlU5sMNOIgnnpxKfIzxjH5Q?e=2n9Dal)
 
 3. Effects of a Physical-Psychological Integrative (PPI) intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors: A Pilot Randomized Controlled Trial; **Health and Medical Research Fund—Research Fellowship Scheme**, 01/Sep/2021- 01/Sep/2023. Project No. 06200147.
-- Conference Poster:
-- Recruitment Poster:
-- Award: 
+- Conference Poster:[**Feasibility and Effectiveness of Artificial Intelligence-Driven Conversational Agents in Healthcare Interventions: A Systematic Review of Randomized Controlled Trials**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EXUD8ajMsbFFs3_vtR0Z53AB21hzUfeEIIId5wjE_pZf2Q?e=oeLAZT) in 2023 Yonsei International Nursing Conference
+- Recruitment Poster:[**身心綜合干預模式對脊髓損傷人士的效果研究招募計劃**](https://polyuit-my.sharepoint.com/:i:/g/personal/menghe_polyu_edu_hk/EXXnIWlCV4VNtyd4sexhPpIB6gkyDyO53nuh1zY-zURwaA?e=v2DMKv) 
+- Award: [**Best Poster Presentation Award**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EX0AHSwoSB9Pl629VeMJbHABzrAwf6zM-54WFCoh1fiEVQ?e=XpRyNL) in 2023 Yonsei International Nursing Conference
 
 4. Effects of caregiver-administrated acupressure intervention for community-dwelling spinal cord injury survivors with constipation: A randomized controlled trial; **Hong Kong Government Chinese Medicine Development Fund**, 1 April 2022- 31/March 2024. (Project No. 20B2/033A).
 
