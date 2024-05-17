@@ -1,12 +1,12 @@
 ---
-title: "Digital Preventive Healthcare Research Group- Research Fund"
+title: "Digital Preventive Healthcare Research Group- Research Project"
 layout: gridlay
-excerpt: "Digital Preventive Healthcare Research Group-- Research Fund"
+excerpt: "Digital Preventive Healthcare Research Group-- Research Project"
 sitemap: false
 permalink: /research/
 ---
 
-# Research Fund
+# Research Project
 
 ## Research/Academic Grants As Principal Investigator
 
