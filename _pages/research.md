@@ -46,7 +46,7 @@ permalink: /research/
 </div>
 {% endif %} -->
 
-- AI-driven Vaccine Communicator——智能疫苗助理: The impact of a Web-based psychoeducation programme with a motivational AI-based digital assistant on Covid-19 vaccine hesitancy in Hong Kong's population. Grant source: Health and Medical Research Fund, Food and Health Bureau, Commissioned Research on the Novel Coronavirus Disease (COVID-19).Project Ref No. COVID1903006.
+AI-driven Vaccine Communicator——智能疫苗助理: The impact of a Web-based psychoeducation programme with a motivational AI-based digital assistant on Covid-19 vaccine hesitancy in Hong Kong's population. Grant source: Health and Medical Research Fund, Food and Health Bureau, Commissioned Research on the Novel Coronavirus Disease (COVID-19).Project Ref No. COVID1903006.
 - Conference Poster:
 [**The Development of a Web-based Psychoeducation Programme with a MotivationalArtificial Intelligencebased Chatbot to Decrease Vaccine Hesitancy**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/Eb-M8Fzm5LRErH3WbN5YyVYBMzMhgwgxylPpavWn-OGNIQ?e=m8r9Rz) and [**Revisiting Attitudes Towards Covid-19 Vaccines Among Hong Kong Adults: Does The Individual Perception of Health Condition Matter?**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EVjYuMdYsABDky8ECwT7CbUB_1bMq4W9iyUNHKPeWNKSUw?e=2VG7bN) in 2023 Yonsei International Nursing Conference
 - Recruitment Poster:[**智能疫苗助理的成效研究**](https://connectpolyu-my.sharepoint.com/:b:/g/personal/20104257g_connect_polyu_hk/ER-jeualX7ZGgucmp4s57KcB381kGm4d6Wd7Zn_3ArrFoQ?e=9VBIiH)
