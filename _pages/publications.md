@@ -11,6 +11,38 @@ permalink: /publications/
 
 ## Representative Publications 
 
+### 2024 
+
+<p align = "justify">
+
+- **Li, Y.**, Li, J., Li, M., Ho, Y. S., Sun, T. C., Wang, S., ... & Yeung, W. F. (2024). Effect of home-based acupressure on constipation in people with spinal cord injury: A study protocol for a randomized controlled trial with a mixed-method approach. European Journal of Integrative Medicine, 68, 102360.
+
+</p>
+
+<p align = "justify">
+
+- Meng, J., Liu, J. Y. W., Yang, L., Wong, M. S., Tsang, H., Yu, B., ... & Shum, D. H. (2024). An AI-empowered indoor digital contact tracing system for COVID-19 outbreaks in residential care homes. Infectious Disease Modelling, 9(2), 474-482.
+
+</p>
+
+<p align = "justify">
+
+- Li, J., Chan, E. A., Li, M., Lam, Y. P., Wong, A. Y., Cheung, J. P. Y., & Li, Y. (2024). “Am I different?” Coping and mental health among teenagers with adolescent idiopathic scoliosis: A qualitative study. Journal of Pediatric Nursing.
+
+</p>
+
+<p align = "justify">
+
+- Liang, S., Huang, S., Andarini, E., Wang, Y., Li, Y., & Cai, W. (2024). Development and internal validation of a risk prediction model for stress urinary incontinence throughout pregnancy: A multicenter retrospective longitudinal study in Indonesia. Neurourology and Urodynamics, 43(2), 354-363.
+
+</p>
+
+<p align = "justify">
+
+- Liang, S., Chen, Z., Tang, W., Andarini, E., Kou, L., Li, Y., & Cai, W. (2024). Prevalence and predictors of help-seeking behavior among post-partum women with urinary incontinence in China and Indonesia: A cross-sectional survey based on Andersen Help-Seeking Model. Midwifery, 128, 103885.
+
+</p>
+
 ### 2023 
 
 <p align = "justify">
