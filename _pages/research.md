@@ -46,9 +46,14 @@ permalink: /research/
 </div>
 {% endif %} -->
 
-* Chatbot-based mindfulness interventions for young adults with symptoms of depression: a feasibility study. Start-up Fund for RAPs under the Strategic Hiring Scheme. **Principal Investigator**, 1 January 2022-31 December 2023.
+1. AI-driven Vaccine Communicator——智能疫苗助理: The impact of a Web-based psychoeducation programme with a motivational AI-based digital assistant on Covid-19 vaccine hesitancy in Hong Kong's population. Grant source: Health and Medical Research Fund, Food and Health Bureau, Commissioned Research on the Novel Coronavirus Disease (COVID-19).Project Ref No. COVID1903006.
+- Confrence Poster:[****](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EScu3Vc6ZmBGkvOF2XYoaNMBIKZp0xbKJiv34G3MASxolg?e=DmIAfJ) in 2023 Yonsei International Nursing Conference
+- Recruitment Poster:[**智能疫苗助理的成效研究**](https://connectpolyu-my.sharepoint.com/:b:/r/personal/20104257g_connect_polyu_hk/Documents/Polyu%20RA%20work/COVID-19/Phase%203%20materials/recuritment/Poster%20for%20Vaccine%20project%20recruitment.pdf?csf=1&web=1&e=kjdFuYw)
+- Award:[**Best Poster Presentation Award**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EScu3Vc6ZmBGkvOF2XYoaNMBIKZp0xbKJiv34G3MASxolg?e=DmIAfJ) in 2023 Yonsei International Nursing Conference
 
-* AI-driven Vaccine Communicator——智能疫苗助理: The impact of a Web-based psychoeducation programme with a motivational AI-based digital assistant on Covid-19 vaccine hesitancy in Hong Kong's population. Grant source: Health and Medical Research Fund, Food and Health Bureau, Commissioned Research on the Novel Coronavirus Disease (COVID-19).Project Ref No. COVID1903006.
+
+2. Chatbot-based mindfulness interventions for young adults with symptoms of depression: a feasibility study. Start-up Fund for RAPs under the Strategic Hiring Scheme. 1 January 2022-31 December 2023.
+- Confrence Poster: 
 
 * Effects of a Physical-Psychological Integrative (PPI) intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors: A Pilot Randomized Controlled Trial; **Health and Medical Research Fund—Research Fellowship Scheme. Principal Investigator**, 01/Sep/2021- 01/Sep/2023. Project No. 06200147.
 
