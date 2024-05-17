@@ -51,18 +51,11 @@ permalink: /publications/
 
 </p>
 
-1.[**Best Poster Presentation Award**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EScu3Vc6ZmBGkvOF2XYoaNMBIKZp0xbKJiv34G3MASxolg?e=DmIAfJ) in 2023 Yonsei International Nursing Conference
-
-2.[**Recruitment Poster**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EcpzBSYgvQNGnXOoIT8du60Byd6jXm2quL7GmM-NO_KOhQ?e=mHI0ob:)
-
-
 <p align = "justify">
 
 - **Li, Y.**, Wong, A., Chung, W. M., Li, M., Molasiotis, A., Bressington, D., ... & Yeung, W. F. (2023). Evaluation of a Physical-Psychological Integrative (PPI) intervention for community-dwelling spinal cord injury survivors: Study protocol of a preliminary randomized controlled trial. Plos one, 18(3), e0282846.
 
 </p>
-
-[**Best Poster Presentation Award**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EX0AHSwoSB9Pl629VeMJbHABzrAwf6zM-54WFCoh1fiEVQ?e=mjYnRh) in 2023 Yonsei International Nursing Conference
 
 ### 2022
 
