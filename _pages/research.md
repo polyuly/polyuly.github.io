@@ -56,7 +56,7 @@ permalink: /research/
 - Conference Poster: [**Chatbot-based Mindfulness Intervention for Young Adults with Symptoms of Depression: A Feasibility Study with Preliminary Effectiveness Testing**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EU8e9VH4N9ZIons-K4piaNEBRCw55MraO5JHuWKkS51sxA?e=JKUGqB) and [**Development of a Mindfulness-based Chatbot on mental health promotion among College Students**](https://polyuit-my.sharepoint.com/:b:/g/personal/menghe_polyu_edu_hk/EfVfNu9tk2hOlrc6AQYcGFUBA_wmsM25Fkx0_A9LqRvgzQ?e=vNG0lv) in 2023 Yonsei International Nursing Conference
 - Recruitment Poster:[**由虛擬聊天機器人主導的靜觀減壓課程之研究**](https://polyuit-my.sharepoint.com/:i:/g/personal/menghe_polyu_edu_hk/EUrQ2p6CsXZKo2NaS4Y8PSwBlU5sMNOIgnnpxKfIzxjH5Q?e=2n9Dal)
 
-* Effects of a Physical-Psychological Integrative (PPI) intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors: A Pilot Randomized Controlled Trial; **Health and Medical Research Fund—Research Fellowship Scheme. Principal Investigator**, 01/Sep/2021- 01/Sep/2023. Project No. 06200147.
+3. Effects of a Physical-Psychological Integrative (PPI) intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors: A Pilot Randomized Controlled Trial; **Health and Medical Research Fund—Research Fellowship Scheme. Principal Investigator**, 01/Sep/2021- 01/Sep/2023. Project No. 06200147.
 
 * Effects of caregiver-administrated acupressure intervention for community-dwelling spinal cord injury survivors with constipation: A randomized controlled trial; Hong Kong Government Chinese Medicine Development Fund; **Principal Investigator**, 1 April 2022- 31/March 2024. (Project No. 20B2/033A).
 
