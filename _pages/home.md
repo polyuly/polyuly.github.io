@@ -46,10 +46,7 @@ Our **mission**:
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/groupphoto2.jpg" alt="Slide 1" />
         </div>
       <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/groupphoto5.jpg" alt="Slide 1" />
-        </div>
-      <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/groupphoto4.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/groupmeeting2024.jpg" alt="Slide 1" />
         </div>
         
     </div>
