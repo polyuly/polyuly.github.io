@@ -83,7 +83,7 @@ table {
    </tr>
 </table>
 
-## Research Posters
+<!-- ## Research Posters
 
 <table>
 <tr>
@@ -228,4 +228,4 @@ table {
  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/FYP_Poster.png"  alt="1" width="95%"></td>
  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/SR_Poster.png" alt="2" width="95%"></td>
     </tr>
-</table>
+</table> -->
