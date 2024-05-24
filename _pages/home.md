@@ -25,7 +25,7 @@ Our **mission**:
 
 <p align = "justify">
 
-**We are now recruiting highly motivated Ph.D. students and postdoctoral research fellows!**
+**We are now recruiting highly motivated Ph.D. students!**
 **If you are interested to join our group, please check** [Vacancies]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 </p>
