@@ -94,7 +94,7 @@ Our **mission**:
   <p>AI-driven Vaccine Communicator——智能疫苗助理(2021-2025)</p>
   <p><strong><a href="https://www.public.polyu-aivac.com/">Project website</a></strong></p>
  </div>
-</div> -->
+</div>
 
 <!-- <p align="center" style="width: 50%" >
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R_0d09uua1WeNbXl0qVSMb_mAH2E4jEZK6rk5Y4T40g&cl=ffffff&w=a"></script>
