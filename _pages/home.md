@@ -68,7 +68,7 @@ Our **mission**:
   </a>
 </div>
 
-<!-- ## Research Fields
+## Research Fields
 <div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>Spinal Cord Injury Rehabilitation</pubtit>
@@ -98,7 +98,7 @@ Our **mission**:
 
 <!-- <p align="center" style="width: 50%" >
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R_0d09uua1WeNbXl0qVSMb_mAH2E4jEZK6rk5Y4T40g&cl=ffffff&w=a"></script>
-</p> -->
+</p>
 
 
 
