@@ -15,6 +15,12 @@ permalink: /publications/
 
 <p align = "justify">
 
+- **Li, Y.**, Lee, K. C., Bressington, D., Liao, Q., He, M., Law, K. K., ... & Li, M. (2024). A Theory and Evidence-Based Artificial Intelligence-Driven Motivational Digital Assistant to Decrease Vaccine Hesitancy: Intervention Development and Validation. Vaccines, 12(7), 708.
+
+</p>
+
+<p align = "justify">
+
 - **Li, Y.**, Li, J., Li, M., Ho, Y. S., Sun, T. C., Wang, S., ... & Yeung, W. F. (2024). Effect of home-based acupressure on constipation in people with spinal cord injury: A study protocol for a randomized controlled trial with a mixed-method approach. European Journal of Integrative Medicine, 68, 102360.
 
 </p>
