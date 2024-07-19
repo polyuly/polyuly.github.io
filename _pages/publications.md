@@ -33,19 +33,19 @@ permalink: /publications/
 
 <p align = "justify">
 
-- Li, J., Chan, E. A., Li, M., Lam, Y. P., Wong, A. Y., Cheung, J. P. Y., & Li, Y. (2024). “Am I different?” Coping and mental health among teenagers with adolescent idiopathic scoliosis: A qualitative study. Journal of Pediatric Nursing.
+- Li, J., Chan, E. A., Li, M., Lam, Y. P., Wong, A. Y., Cheung, J. P. Y., & **Li, Y**. (2024). “Am I different?” Coping and mental health among teenagers with adolescent idiopathic scoliosis: A qualitative study. Journal of Pediatric Nursing.
 
 </p>
 
 <p align = "justify">
 
-- Liang, S., Huang, S., Andarini, E., Wang, Y., Li, Y., & Cai, W. (2024). Development and internal validation of a risk prediction model for stress urinary incontinence throughout pregnancy: A multicenter retrospective longitudinal study in Indonesia. Neurourology and Urodynamics, 43(2), 354-363.
+- Liang, S., Huang, S., Andarini, E., Wang, Y., **Li, Y**., & Cai, W. (2024). Development and internal validation of a risk prediction model for stress urinary incontinence throughout pregnancy: A multicenter retrospective longitudinal study in Indonesia. Neurourology and Urodynamics, 43(2), 354-363.
 
 </p>
 
 <p align = "justify">
 
-- Liang, S., Chen, Z., Tang, W., Andarini, E., Kou, L., Li, Y., & Cai, W. (2024). Prevalence and predictors of help-seeking behavior among post-partum women with urinary incontinence in China and Indonesia: A cross-sectional survey based on Andersen Help-Seeking Model. Midwifery, 128, 103885.
+- Liang, S., Chen, Z., Tang, W., Andarini, E., Kou, L., **Li, Y**., & Cai, W. (2024). Prevalence and predictors of help-seeking behavior among post-partum women with urinary incontinence in China and Indonesia: A cross-sectional survey based on Andersen Help-Seeking Model. Midwifery, 128, 103885.
 
 </p>
 
