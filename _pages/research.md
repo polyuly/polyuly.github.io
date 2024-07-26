@@ -1,7 +1,7 @@
 ---
-title: "Digital Preventive Healthcare Research Group- Research Project"
+title: "Digital Psychosocial Health Research Group- Research Project"
 layout: gridlay
-excerpt: "Digital Preventive Healthcare Research Group-- Research Project"
+excerpt: "Digital Psychosocial Health Research Group-- Research Project"
 sitemap: false
 permalink: /research/
 ---

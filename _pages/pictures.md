@@ -1,7 +1,7 @@
 ---
-title: "Digital Preventive Healthcare Research Group- Gallery"
+title: "Digital Psychosocial Health Research Group- Gallery"
 layout: piclay
-excerpt: "Digital Preventive Healthcare Research Group -- Gallery"
+excerpt: "Digital Psychosocial Health Research Group -- Gallery"
 permalink: /pictures/
 ---
 
