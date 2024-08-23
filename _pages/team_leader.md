@@ -1,7 +1,7 @@
 ---
 title: " Group - Team"
 layout: gridlay
-excerpt: "Digital Preventive Healthcare Research Group: Team leader"
+excerpt: "Digital Psychosocial Health Research Group: Team leader"
 sitemap: false
 permalink: /leader/
 ---

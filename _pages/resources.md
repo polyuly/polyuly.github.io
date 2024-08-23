@@ -1,7 +1,7 @@
 ---
-title: "Digital Preventive Healthcare Research Group- Research Resources"
+title: "Digital Psychosocial Health Research Group- Research Resources"
 layout: textlay
-excerpt: "Digital Preventive Healthcare Research Group-- Research Resources"
+excerpt: "Digital Psychosocial Health Research Group-- Research Resources"
 sitemap: false
 permalink: /resources/
 ---
