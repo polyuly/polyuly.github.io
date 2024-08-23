@@ -12,6 +12,11 @@ permalink: /publications/
 ## Representative Publications 
 
 ### 2024 
+<p align = "justify">
+
+- Li, J., **Li, Y.**, Mei, X., He, H., Yu, L., Ho, G. W. K., & Chan, E. A. (2024). Effectiveness of Cognitive‐Based Interventions on Psychological Distress in Adolescents With Physical Disabilities: A Systematic Review and Meta‐Analysis. International Journal of Mental Health Nursing. [IF=3.6, Nursing Q1]
+
+</p>
 
 <p align = "justify">
 
@@ -60,6 +65,18 @@ permalink: /publications/
 <p align = "justify">
 
 - **Li, Y.**, Wong, A., Chung, W. M., Li, M., Molasiotis, A., Bressington, D., ... & Yeung, W. F. (2023). Evaluation of a Physical-Psychological Integrative (PPI) intervention for community-dwelling spinal cord injury survivors: Study protocol of a preliminary randomized controlled trial. Plos one, 18(3), e0282846.
+
+</p>
+
+<p align = "justify">
+
+- **Li, Y.**, Li, M.*, Yang, L., Bressington, D., Leung, S-F., Xie, Y-J., Qin, J., Molasiotis, A., Leung, AYM. (2023). Are People Willing to Take Regular COVID-19 Vaccines? Prevalence and Determinants of Hesitancy for Regular COVID-19 Vaccination: A Random Population-Based Survey in Hong Kong. Vaccines, 11(8):1388. https://doi.org/10.3390/vaccines11081388. [IF=5.2, Medicine, Research & Experimental Q1]
+
+</p>
+
+<p align = "justify">
+
+- Wong, W. K., Qin, J., Bressington, D., Yeung, W. F., Liu, N., Ho, B. Y. W., Liang, S., & **Li, Y.** (2023). Cross-Cultural Adaptation and Psychometric Validation of the Constipation Assessment Scale among Chinese Adult Psychiatric Patients. International Journal of Environmental Research and Public Health, 20(3), 2703–2703. https://doi.org/10.3390/ijerph20032703. [IF=4.614, Public, Environmental & Occupational Health Q1]
 
 </p>
 
