@@ -1,3 +1,10 @@
+- name: Dai Yushen 戴雨珅
+  photo: yushen.jpg
+  research_interest: Neurological disorders, Mental health
+  email: yushen.dai@connect.polyu.hk
+  number_educ: 1
+  education1: Bachelor & Master of Nursing, Sun Yat-sen University, 2024
+
 - name: Hu Yule 胡宇乐
   photo: yule_updated.jpg
   research_interest: Spinal cord injury rehabilitation, Mental health, Clinical nutrition
@@ -20,3 +27,11 @@
   number_educ: 2
   education1: Master of Nursing, Guangzhou University of Chinese Medicine, 2023
   education2: Bachelor of Nursing, Zhengzhou University, 2020
+
+- name: Wang Yueying 王月莹
+  photo: yueying2.jpg
+  research_interest: digital mental health promotion, pulmonary rehabilitation
+  email: yue-ying.wang@connect.polyu.hk
+  number_educ: 2
+  education1: Master of Medicine, Shanghai Jiao Tong University, 2023
+  education2: Bachelor of Science, Tianjin University of Traditional Chinese Medicine, 2020
