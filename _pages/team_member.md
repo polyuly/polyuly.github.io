@@ -125,7 +125,7 @@ permalink: /member/
 
 
 
-## Master Student
+<!-- ## Master Student
 {% assign number_printed = 0 %}
 {% for member in site.data.master_student %}
 
@@ -179,7 +179,7 @@ permalink: /member/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 
 ## Research Assistant
@@ -291,6 +291,8 @@ permalink: /member/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+
 
 ## Alumni
 {% assign number_printed = 0 %}
