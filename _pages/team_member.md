@@ -309,7 +309,7 @@ permalink: /member/
   
   <h4>{{ member.name }}</h4>
   <!-- <i>{{ member.info }}<br>Current Status: <{{ member.current_status }}><br>Research Interest: {{ member.research_interest }}</i> -->
-  <i>{{ member.info }}<br>education1: <{{ member.education1 }}><br>Research Interest: {{ member.research_interest }}</i>
+  <i>{{ member.info }}<br>Status: <{{ member.current_status }}><br>Research Interest: {{ member.research_interest }}</i>
 
   <ul style="overflow: hidden">
 
