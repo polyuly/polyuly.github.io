@@ -1,0 +1,70 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Chung Tsz-yu 鍾子裕
+  photo: mark2.jpeg
+  research_interest: AI-based intervention
+  current_status: Working in Kwai Chung Hospital
+  number_educ: 2
+  education1: Master of Nursing, The Hong Kong Polytechnic University, 2024
+  education2: BSc (Honours) in Mental Health Nursing, The Hong Kong Polytechnic University, 2020
+
+- name: Lee Kit Ching 李潔貞
+  photo: adalife.jpg
+  research_interest: Psychology-based intervention 
+  current_status: Working in Mother's Choice
+  number_educ: 2
+  education1: Master of Applied Psychology, The Hong Kong Polytechnic University, 2021 
+  education2: BSSs (Honours) in Psychology, The Hong Kong Polytechnic University, 2020
+
+- name: Law Ka Kit 羅嘉傑
+  photo: Jack.png
+  research_interest: Motivational interviewing, Addiction, Public health promotion
+  number_educ: 1
+  education1: BSc (Psychology), Upper Iowa University (2015)
+
+- name: Lam Mo In 林慕妍
+  photo: jennylife.JPG
+  research_interest: Mental health
+  current_status: Working in Kwai Chung Hospital
+  number_educ: 2
+  education1: Master of Nursing, The Hong Kong PolyU, 2024
+  education2: BSc (Honours) in Mental Health Nursing, The Hong Kong PolyU, 2020
+
+- name: Li Mengqi 李梦琦
+  photo: linalife.jpeg
+  research_interest: AI-based intervention, Psychosocial rehabilitation, Health manpower
+  current_status: Working in Kiang Wu Nursing College of Macau
+  number_educ: 2
+  education1: Doctor of Medicine, Sun Yat-sen University, 2022 
+  education2: Bachelor of Medicine, Huazhong University of Science & Technology, 2015
+
+- name: LAM YIM PING 林艷萍
+  photo: Mono.png
+  research_interest: Social psychology, Psychosocial interventions
+  number_educ: 2
+  education1: Master in Early Childhood Education, The Chinese University of Hong Kong, 2021
+  education2: BSSs (Honours) in Psychology, The Hong Kong Polytechnic University, SPEED, 2020
+
+- name: Shi Jinyan 时巾晏
+  photo: jinyan.jpg
+  current_status: Studying PH.D in the University of Sydney
+  research_interest: healthcare interventions, mental health, chronic disease
+  number_educ: 2
+  education1: MSc Global Healthcare Management, University College London, 2023
+  education2: Bachelor of Management of Human Resource Management, Shandong University of Science and Technology, 2022
+
+- name: Yeung Ho Tung 楊浩彤
+  photo: hilton.jpg
+  research_interest: Trauma care and rehabilitation, Nursing education
+  current_status: Working in Queen Elizabeth Hospital
+  number_educ: 2
+  education1: Master of Nursing, The Hong Kong PolyU, 2024
+  education2: BSc (Honours) in Nursing, The Hong Kong PolyU, 2019
