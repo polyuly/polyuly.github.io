@@ -308,8 +308,12 @@ permalink: /member/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>Current Status: <{{ member.current_status }}><br>Research Interest: {{ member.research_interest }}</i>
+  <!-- <i>{{ member.info }}<br>Current Status: <{{ member.current_status }}><br>Research Interest: {{ member.research_interest }}</i> -->
+  <i>{{ member.info }}<br>Email: <{{ member.email }}><br>Research Interest: {{ member.research_interest }}</i>
+
   <ul style="overflow: hidden">
+
+
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
