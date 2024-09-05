@@ -16,7 +16,7 @@
 
 - name: Law Ka Kit 羅嘉傑
   photo: Jack.png
-  current_status: nil
+  current_status: Studying master in Hong Kong Baptist University
   research_interest: Motivational interviewing, Addiction, Public health promotion
   number_educ: 1
   education1: BSc (Psychology), Upper Iowa University (2015)
@@ -39,7 +39,7 @@
 
 - name: LAM YIM PING 林艷萍
   photo: Mono.png
-  current_status: nil
+  # current_status: nil
   research_interest: Social psychology, Psychosocial interventions
   number_educ: 2
   education1: Master in Early Childhood Education, The Chinese University of Hong Kong, 2021
