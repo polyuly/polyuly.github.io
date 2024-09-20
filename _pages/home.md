@@ -40,13 +40,13 @@ Our **mission**:
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/groupphoto3.jpg" alt="Slide 0" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/group1.jpg" alt="Slide 0" />
         </div>
       <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/groupphoto2.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/group3.jpg" alt="Slide 1" />
         </div>
       <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/groupmeeting2024.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/group4.jpg" alt="Slide 1" />
         </div>
         
     </div>
