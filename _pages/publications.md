@@ -11,7 +11,39 @@ permalink: /publications/
 
 ## Representative Publications 
 
+### 2025
+<p align = "justify">
+
+- Lu, W., **Li, Y.**, Montayre, J., Li, M., Ho, K. Y., Li, J., & Yorke, J., 2025. A Bibliometric Analysis of Healthcare Intervention-Related Studies Reporting Patient and Public Involvement and Engagement. Healthcare, 13(3), 305. [IF=2.4, Health Care Sciences & Services Q2]
+
+</p>
+
+<p align = "justify">
+
+- Li, M., Lo, W. Y., Hu, Y., Wang, S., Sun, T.-C., Temesgen, W. A., He, M., & **Li, Y*.** 2025. Mindfulness- and acceptance-based interventions for people with spinal cord injury: a scoping review. Spinal Cord. [IF=2.1, Rehabilitation Q1]
+
+</p>
+
+<p align = "justify">
+
+- Hu, Y., **Li, Y*.**, Li, J., Liu, J. Y. W., Gustin, S. M., Li, M., & Leung, A. Y. M. 2025. Effectiveness of Telehealth Interventions on Cognitive Function and Quality of Life in Adults With Neurological Disorders: A Systematic Review and Meta-Analysis. Journal of the American Medical Directors Association. [IF=4.2, Geriatrics & Gerontology Q1]
+
+</p>
+
+<p align = "justify">
+
+- Cochrane Central Editorial Service, Li, M., Yuen, S., Arora, M., Liu, X., Lantta, T., Craig, A. and **Li, Y*.**, 2024. Peer‐supported interventions for people with spinal cord injury. Cochrane Database of Systematic Reviews, 2024(12). [IF=8.8, Medicine, General & Internal Q1].
+
+</p>
+
+
 ### 2024 
+<p align = "justify">
+
+- **Li, Y.**, Li, M., Bressington, D., Li, K., Wong, A.Y., Chung, W.M., Molassiotis, A., Ma, C.Z.H., Kor, P.P.K. and Yeung, W.F., 2024. Effect of a mindfulness and motivational interviewing-oriented physical-psychological integrative intervention for community-dwelling spinal cord injury survivors: A mixed-methods randomized controlled trial. Archives of Physical Medicine and Rehabilitation, 105(9), pp.1632-1641. [IF=3.6, Rehabilitation Q1]
+
+</p>
+
 <p align = "justify">
 
 - Li, J., **Li, Y.**, Mei, X., He, H., Yu, L., Ho, G. W. K., & Chan, E. A. (2024). Effectiveness of Cognitive‐Based Interventions on Psychological Distress in Adolescents With Physical Disabilities: A Systematic Review and Meta‐Analysis. International Journal of Mental Health Nursing. [IF=3.6, Nursing Q1]
