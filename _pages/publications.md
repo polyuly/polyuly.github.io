@@ -14,6 +14,12 @@ permalink: /publications/
 ### 2025
 <p align = "justify">
 
+- Mei, X., Yeung, W.F., Hu, Y., He, M., Lu, W., Bayuo, J., Lanta, T. and **Li, Y.**, 2025. A scoping review of literature: What has been studied about mental health problems among individuals with ankylosing spondylitis?. Archives of Psychiatric Nursing, p.151855. [IF=2.2, Nursing Q1]
+
+</p>
+
+<p align = "justify">
+
 - Lu, W., **Li, Y.**, Montayre, J., Li, M., Ho, K. Y., Li, J., & Yorke, J., 2025. A Bibliometric Analysis of Healthcare Intervention-Related Studies Reporting Patient and Public Involvement and Engagement. Healthcare, 13(3), 305. [IF=2.4, Health Care Sciences & Services Q2]
 
 </p>
