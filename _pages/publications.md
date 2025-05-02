@@ -14,7 +14,7 @@ permalink: /publications/
 ### 2025
 <p align = "justify">
 
-- Dai, Y., Li, J., Li, Y*., Wong, F. K. Y., Li, M., Li, C., Jia, Y., Wang, Y., & Yorke, J. (2025). A scoping review on the role of virtual walking intervention in enhancing wellness. npj Digital Medicine, 8(1), 217. [IF=12.4, Health Care Sciences & Services Q1]
+- Dai, Y., Li, J., **Li, Y**., Wong, F. K. Y., Li, M., Li, C., Jia, Y., Wang, Y., & Yorke, J. (2025). A scoping review on the role of virtual walking intervention in enhancing wellness. npj Digital Medicine, 8(1), 217. [IF=12.4, Health Care Sciences & Services Q1]
 
 </p>
 
