@@ -14,6 +14,12 @@ permalink: /publications/
 ### 2025
 <p align = "justify">
 
+- Dai, Y., Li, J., Li, Y*., Wong, F. K. Y., Li, M., Li, C., Jia, Y., Wang, Y., & Yorke, J. (2025). A scoping review on the role of virtual walking intervention in enhancing wellness. npj Digital Medicine, 8(1), 217. [IF=12.4, Health Care Sciences & Services Q1]
+
+</p>
+
+<p align = "justify">
+
 - Mei, X., Yeung, W.F., Hu, Y., He, M., Lu, W., Bayuo, J., Lanta, T. and **Li, Y.**, 2025. A scoping review of literature: What has been studied about mental health problems among individuals with ankylosing spondylitis?. Archives of Psychiatric Nursing, p.151855. [IF=2.2, Nursing Q1]
 
 </p>
