@@ -14,6 +14,18 @@ permalink: /publications/
 ### 2025
 <p align = "justify">
 
+- Li, M., **Li, Y.**, Lam, W., Yeung, W. F., Ho, Y. S., Li, J., Sun, T. C., Yuen, S., Hu, Y., & Yorke, J. (2025). Home-based acupressure for managing constipation and subjective well-being in spinal cord injury survivors: A randomized controlled trial. Journal of Integrative and Complementary Medicine. Advance online publication. [IF=4.0, Integrative & Complementary Medicine Q1]
+
+</p>
+
+<p align = "justify">
+
+- Li, J., **Li, Y.**, Hu, Y., Ma, D. C. F., Mei, X., Chan, E. A., & Yorke, J. (2025). Chatbot-Delivered Interventions for Improving Mental Health Among Young People: A Systematic Review and Meta-Analysis. Worldviews on Evidence-based Nursing, 22(4), e70059. [IF=3.8, Nursing Q1]
+
+</p>
+
+<p align = "justify">
+
 - Dai, Y., Li, J., **Li, Y**., Wong, F. K. Y., Li, M., Li, C., Jia, Y., Wang, Y., & Yorke, J. (2025). A scoping review on the role of virtual walking intervention in enhancing wellness. npj Digital Medicine, 8(1), 217. [IF=12.4, Health Care Sciences & Services Q1]
 
 </p>
