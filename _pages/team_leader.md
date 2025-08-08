@@ -73,7 +73,7 @@ Prof Yan Li is an Assistant Professor at the [School of Nursing](https://www.pol
 
 Prof Yan Li's research interest is **spinal cord injury rehabilitation**, **psychosocial interventions**, and **mental health promotion**. Her work was supported by Prof Ida Martinson Fund and King’s College London Global Research Grant. She has recently been awarded the Hong Kong Government Health and Medical Research Fund Research Fellowship to continue her research work and contribution towards local service innovation and research development in the area of mental health within spinal cord injury community rehabilitation. 
 
-Prof Yan Li has published around 50 peer-reviewed journal articles and she has served as a reviewer for the Journal of Nursing Scholarship, Disability and Rehabilitation, International Journal of Interprofessional Care, BMC geriatrics, Spinal Cord and Journal of Spine surgery.
+Prof Yan Li has published around 80 peer-reviewed journal articles and she has served as a reviewer for the Journal of Nursing Scholarship, Disability and Rehabilitation, International Journal of Interprofessional Care, BMC geriatrics, Spinal Cord and Journal of Spine surgery.
 
 
 <!-- ## Research Personnel
