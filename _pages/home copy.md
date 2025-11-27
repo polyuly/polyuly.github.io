@@ -11,7 +11,7 @@ Prof Yan Li is an Assistant Professor at the [School of Nursing](https://www.pol
 
 Prof Yan Li's research interest is **Mental Health and Psychosocial Support: Psychosocial Interventions of People with Physical Disabilities**, **Digital Health: Artificial Intelligence (e.g., Chatbot), Virtual Reality, Web-based Interventions**, and **Stigmatization of Mental Illness/Mental Health Promotion**. Her work was supported by Prof Ida Martinson Fund and King’s College London Global Research Grant. She has recently been awarded the Hong Kong Government Health and Medical Research Fund Research Fellowship to continue her research work and contribution towards local service innovation and research development in the area of mental health within spinal cord injury community rehabilitation. 
 
-Prof Yan Li has published around 50 peer-reviewed journal articles and she has served as a reviewer for the Journal of Nursing Scholarship, Disability and Rehabilitation, International Journal of Interprofessional Care, BMC geriatrics, Spinal Cord and Journal of Spine surgery.
+Prof Yan Li has published around 80 peer-reviewed journal articles and she has served as a reviewer for the Journal of Nursing Scholarship, Disability and Rehabilitation, International Journal of Interprofessional Care, BMC geriatrics, Spinal Cord and Journal of Spine surgery.
 
 **We are now recruiting highly motivated Ph.D. students and Postdoc fellows, if you are interested to join our group, please check** [Vacancies]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
