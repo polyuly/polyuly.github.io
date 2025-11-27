@@ -118,60 +118,6 @@ permalink: /member/
 {% endif %}
 
 
-{% assign number_printed = 0 %}
-{% for member in site.data.phd_student %}
-
-  {% assign even_odd = number_printed | modulo: 2 %}
-
-  {% if even_odd == 0 %}
-  <div class="row" style="margin-bottom: 30px;">
-  {% endif %}
-
-  <div class="col-sm-6 clearfix">
-
-    <!-- ⭐ 每个学生独立的 title（字体比 h3 小）-->
-    <h4 style="margin-top:0; font-weight:600;">
-      {{ member.title }}
-    </h4>
-
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
-         class="img-responsive"
-         width="25%"
-         style="float:left; margin-right:15px;"/>
-
-    <!-- 名字 + PhD Student -->
-    <h4 style="margin-top:0;">
-      {{ member.name }}, PhD Student
-    </h4>
-
-    <i>
-      Email: <{{ member.email }}><br>
-      Research Interest: {{ member.research_interest }}
-    </i>
-
-    <ul style="overflow:hidden; padding-left:20px;">
-      {% if member.number_educ >= 1 %}<li>{{ member.education1 }}</li>{% endif %}
-      {% if member.number_educ >= 2 %}<li>{{ member.education2 }}</li>{% endif %}
-      {% if member.number_educ >= 3 %}<li>{{ member.education3 }}</li>{% endif %}
-      {% if member.number_educ >= 4 %}<li>{{ member.education4 }}</li>{% endif %}
-    </ul>
-
-  </div>
-
-  {% assign number_printed = number_printed | plus: 1 %}
-
-  {% if even_odd == 1 %}
-  </div>
-  {% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
 ## PhD Student
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_student %}
