@@ -7,7 +7,7 @@ permalink: /member/
 ---
 # Group Members
 
-## Research Assistant Professor
+## Lead of Psychosocial Intervention
 {% assign number_printed = 0 %}
 {% for member in site.data.RAP %}
 
