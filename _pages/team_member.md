@@ -62,7 +62,7 @@ permalink: /member/
 </div>
 {% endif %}
 
-## Postdoctoral Research Fellow
+## Lead of Patient and Public Involvement and Engagement
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
