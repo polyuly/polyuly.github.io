@@ -69,34 +69,6 @@ Our **mission**:
 </div>
 
 ## Research Fields
-<div class="col-sm-12 clearfix">
- <div class="well">
-  <pubtit>Spinal Cord Injury Rehabilitation</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_1.png" class="img-responsive" width="20%" style="float: left" />
-  <p>A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
-  <p><strong><a href="https://doi.org/10.1371/journal.pone.0282846">Publication DOI: 10.1371/journal.pone.0282846 </a></strong></p>
- </div>
-</div>
-
-<div class="col-sm-12 clearfix">
- <div class="well">
-  <pubtit>Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation)</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_2.png" class="img-responsive" width="20%" style="float: left" />
-  <p>Li, Y., Chien, W. T., & Bressington, D. (2020). Effects of a coping-oriented supportive programme for people with spinal cord injury during inpatient rehabilitation: a quasi-experimental study. Spinal Cord, 58(1), 58-69.</p>
-  <p><strong><a href="https://doi.org/10.1038/s41393-019-0320-2">Publication DOI: 10.1038/s41393-019-0320-2 </a></strong></p>
- </div>
-</div>
-
-<div class="col-sm-12 clearfix">
- <div class="well">
-  <pubtit>Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_3.png" class="img-responsive" width="20%" style="float: left" />
-  <p>AI-driven Vaccine Communicator——智能疫苗助理(2021-2025)</p>
-  <p><strong><a href="https://www.public.polyu-aivac.com/">Project website</a></strong></p>
- </div>
-</div>
-
-
 
 <div class="col-sm-12 clearfix">
  <div class="well">
@@ -108,7 +80,8 @@ Our **mission**:
 
   <p>Prof Yan LI's PI project: A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
   <p><strong>Representative publication: </strong> 
-  Li, Y., Wong, A., Chung, W. M., Li, M., Molasiotis, A., Bressington, D., Ma, C. Z., Kor, P. P. K., & Yeung, W. F. (2023). Evaluation of a Physical-Psychological Integrative (PPI) intervention for community-dwelling spinal cord injury survivors: Study protocol of a preliminary randomized controlled trial. <strong>Full paper available:<a href="https://doi.org/10.1371/journal.pone.0282846"> 10.1371/journal.pone.0282846 </a></strong></p>
+  Li, Y., Wong, A., Chung, W. M., Li, M., Molasiotis, A., Bressington, D., Ma, C. Z., Kor, P. P. K., & Yeung, W. F. (2023). Evaluation of a Physical-Psychological Integrative (PPI) intervention for community-dwelling spinal cord injury survivors: Study protocol of a preliminary randomized controlled trial. <br>
+  <strong>Full paper available:<a href="https://doi.org/10.1371/journal.pone.0282846"> 10.1371/journal.pone.0282846 </a></strong></p>
  </div>
 </div>
 
@@ -123,7 +96,8 @@ Our **mission**:
 
   <p>Prof Yan LI's PI project: The Impact of 'Digital Strolling' on Depression and Quality of Life of People with Severe Mobility Impairment </p>
   <p><strong>Representative publication: </strong>
-  Dai, Y., Li, J., Li, Y., Wong, F. K. Y., Li, M., Li, C., Jia, Y., Wang, Y., & Yorke, J. (2025). A scoping review on the role of virtual walking intervention in enhancing wellness. <strong>Full paper available:<a href="https://www.nature.com/articles/s41746-025-01609-y">10.1038/s41746-025-01609-y</a></strong></p>
+  Dai, Y., Li, J., Li, Y., Wong, F. K. Y., Li, M., Li, C., Jia, Y., Wang, Y., & Yorke, J. (2025). A scoping review on the role of virtual walking intervention in enhancing wellness. <br>
+  <strong>Full paper available:<a href="https://www.nature.com/articles/s41746-025-01609-y">10.1038/s41746-025-01609-y</a></strong></p>
  </div>
 </div>
 
@@ -137,6 +111,11 @@ Our **mission**:
   </video>
 
   <p>Prof Yan LI's PI project: AI-driven Vaccine Communicator——智能疫苗助理(2021-2025)</p>
+  <p><strong>Representative publication: </strong>
+  Li, Y., Li, M., Yorke, J., Bressington, D., Chung, J., Xie, Y. J., Yang, L., He, M., Sun, T. C., & Leung, A. Y. M. (2025). Effects of a Theory- and Evidence-Based, Motivational Interviewing-Oriented Artificial Intelligence Digital Assistant on Vaccine Attitudes: A Randomized Controlled Trial. <br>
+
+  <strong>Full paper available:<a href="https://www.jmir.org/2025/1/e72637">10.2196/72637</a></strong></p> <br>
+  
   <p><strong>More details at: <a href="https://www.public.polyu-aivac.com/">Project website</a></strong></p>
  </div>
 </div>
