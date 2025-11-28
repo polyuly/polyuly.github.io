@@ -116,3 +116,26 @@ firstp {
 .news-card {
   margin-bottom: 40px;   /* 每条新闻之间增加间距 */
 }
+
+/* Logo + 文字一起排列 */
+.site-title {
+    display: flex;
+    align-items: center;
+    font-size: 28px !important;  /* 标题变大 */
+    font-weight: 700;
+    gap: 12px;
+    white-space: nowrap; /* 不换行 */
+}
+
+/* Logo 图片 */
+.site-logo {
+    height: 48px;   /* 可调 */
+    width: auto;
+    border-radius: 6px;
+}
+
+/* 导航菜单字体变大 */
+.navbar-nav > li > a {
+    font-size: 20px !important;
+    font-weight: 500;
+}
