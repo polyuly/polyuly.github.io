@@ -22,11 +22,10 @@ sitemap: false
 <div class="news-card-text">
 {{ article.headline | markdownify }}
 </div>
+</div>
 
- {% if article.image %}
-    <img src="{{ site.url }}{{ site.baseurl }}{{ article.image }}"
-         alt="News image"
-         class="news-img" />
-    {% endif %}
 </div>
 <hr>
+{% endfor %}
+</div>
+
