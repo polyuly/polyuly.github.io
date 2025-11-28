@@ -13,18 +13,20 @@ sitemap: false
 
 {% if article.image %}
 <div class="news-card-image">
-<img src="{{ site.url }}{{ site.baseurl }}{{ article.image }}" alt="News image" class="img-responsive">
+<img src="{{ site.url }}{{ site.baseurl }}{{ article.image }}" alt="News image" class="news-img">
 </div>
 {% endif %}
 
-<div class="news-card-body">
+<div class="news-card">
 <div class="news-card-date">{{ article.date }}</div>
 <div class="news-card-text">
 {{ article.headline | markdownify }}
 </div>
-</div>
-    
+
+ {% if article.image %}
+    <img src="{{ site.url }}{{ site.baseurl }}{{ article.image }}"
+         alt="News image"
+         class="news-img" />
+    {% endif %}
 </div>
 <hr>
-{% endfor %}
-</div>

@@ -91,3 +91,28 @@ firstp {
     margin-right: 30px;
 }
 
+.news-img {
+  max-width: 600px;       /* 限制最大宽度 */
+  width: 100%;            /* 自适应 */
+  margin: 20px auto;      /* 居中 */
+  display: block;
+  border-radius: 6px;
+}
+
+.news-card-date {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #444;
+}
+
+.news-card-text {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+.news-card {
+  margin-bottom: 40px;   /* 每条新闻之间增加间距 */
+}
