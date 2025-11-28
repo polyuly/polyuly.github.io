@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open Positions
+### Open Positions
 
 
 

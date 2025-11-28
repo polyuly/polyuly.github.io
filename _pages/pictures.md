@@ -7,7 +7,7 @@ permalink: /pictures/
 
 <!-- # Gallery -->
 
-## Research and Study @ PolyU
+### Research and Study @ PolyU
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_poly_nursing %}
@@ -46,7 +46,7 @@ permalink: /pictures/
 
 <p> &nbsp; </p>
 
-## Life and Fun @ PolyU
+### Life and Fun @ PolyU
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_poly_nursing2 %}

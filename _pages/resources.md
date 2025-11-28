@@ -6,9 +6,9 @@ sitemap: false
 permalink: /resources/
 ---
 
-# Research Resource
+### Research Resource
 
-## Research Videos
+### Research Videos
 
 <style scoped>
 table {

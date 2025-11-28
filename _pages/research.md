@@ -6,9 +6,9 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research Project
+### Research Project
 
-## Research/Academic Grants As Principal Investigator
+### Research/Academic Grants As Principal Investigator
 
 <!-- {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
