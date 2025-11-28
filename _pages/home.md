@@ -106,8 +106,9 @@ Our **mission**:
   <source src="{{ site.url }}{{ site.baseurl }}/images/research_image/SCIvideo.mp4" type="video/mp4" >
   </video>
 
-  <p>A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
-  <p><strong>Respective publication: <a href="https://doi.org/10.1371/journal.pone.0282846"> Full paper available: 10.1371/journal.pone.0282846 </a></strong></p>
+  <p>Prof Yan LI's PI project: A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
+  <p><strong>Representative publication: </strong> 
+  Li, Y., Wong, A., Chung, W. M., Li, M., Molasiotis, A., Bressington, D., Ma, C. Z., Kor, P. P. K., & Yeung, W. F. (2023). Evaluation of a Physical-Psychological Integrative (PPI) intervention for community-dwelling spinal cord injury survivors: Study protocol of a preliminary randomized controlled trial. <strong>Full paper available:<a href="https://doi.org/10.1371/journal.pone.0282846"> 10.1371/journal.pone.0282846 </a></strong></p>
  </div>
 </div>
 
@@ -120,8 +121,9 @@ Our **mission**:
   <source src="{{ site.url }}{{ site.baseurl }}/images/research_image/VRintro.mp4" type="video/mp4" >
   </video>
 
-  <p>The Impact of 'Digital Strolling' on Depression and Quality of Life of People with Severe Mobility Impairment </p>
-  <p><strong>More details at: <a href="https://www.nature.com/articles/s41746-025-01609-y">Full paper available: 10.1038/s41746-025-01609-y</a></strong></p>
+  <p>Prof Yan LI's PI project: The Impact of 'Digital Strolling' on Depression and Quality of Life of People with Severe Mobility Impairment </p>
+  <p><strong>Representative publication: </strong>
+  Dai, Y., Li, J., Li, Y., Wong, F. K. Y., Li, M., Li, C., Jia, Y., Wang, Y., & Yorke, J. (2025). A scoping review on the role of virtual walking intervention in enhancing wellness. <strong>Full paper available:<a href="https://www.nature.com/articles/s41746-025-01609-y">10.1038/s41746-025-01609-y</a></strong></p>
  </div>
 </div>
 
@@ -134,7 +136,7 @@ Our **mission**:
   <source src="{{ site.url }}{{ site.baseurl }}/images/research_image/Chatbotintro.mp4" type="video/mp4" >
   </video>
 
-  <p>AI-driven Vaccine Communicator——智能疫苗助理(2021-2025)</p>
+  <p>Prof Yan LI's PI project: AI-driven Vaccine Communicator——智能疫苗助理(2021-2025)</p>
   <p><strong>More details at: <a href="https://www.public.polyu-aivac.com/">Project website</a></strong></p>
  </div>
 </div>
