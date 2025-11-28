@@ -100,6 +100,34 @@ Our **mission**:
 
 <div class="col-sm-12 clearfix">
  <div class="well">
+  <pubtit>Spinal Cord Injury Rehabilitation</pubtit>
+ 
+ <video width="100%" controls autoplay muted loop playsinline>
+  <source src="{{ site.url }}{{ site.baseurl }}/images/research_image/SCIvideo.mp4" type="video/mp4" >
+  </video>
+
+  <p>A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
+  <p><strong>Respective publication: <a href="https://doi.org/10.1371/journal.pone.0282846"> Full paper available: 10.1371/journal.pone.0282846 </a></strong></p>
+ </div>
+</div>
+
+
+<div class="col-sm-12 clearfix">
+ <div class="well">
+  <pubtit>Virtual reality-based in Healthcare Interventions</pubtit>
+ 
+ <video width="100%" controls autoplay muted loop playsinline>
+  <source src="{{ site.url }}{{ site.baseurl }}/images/research_image/VRintro.mp4" type="video/mp4" >
+  </video>
+
+  <p>The Impact of 'Digital Strolling' on Depression and Quality of Life of People with Severe Mobility Impairment </p>
+  <p><strong>More details at: <a href="https://www.nature.com/articles/s41746-025-01609-y">Full paper available: 10.1038/s41746-025-01609-y</a></strong></p>
+ </div>
+</div>
+
+
+<div class="col-sm-12 clearfix">
+ <div class="well">
   <pubtit>AI Chatbot-based in Healthcare Interventions</pubtit>
  
  <video width="100%" controls autoplay muted loop playsinline>
