@@ -100,14 +100,14 @@ Our **mission**:
 
 <div class="col-sm-12 clearfix">
  <div class="well">
-  <pubtit>Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions</pubtit>
+  <pubtit>AI Chatbot-based in Healthcare Interventions</pubtit>
  
  <video width="100%" controls autoplay muted loop playsinline>
   <source src="{{ site.url }}{{ site.baseurl }}/images/research_image/Chatbotintro.mp4" type="video/mp4" >
   </video>
 
   <p>AI-driven Vaccine Communicator——智能疫苗助理(2021-2025)</p>
-  <p><strong><a href="https://www.public.polyu-aivac.com/">Project website</a></strong></p>
+  <p><strong>More details at: <a href="https://www.public.polyu-aivac.com/">Project website</a></strong></p>
  </div>
 </div>
 
