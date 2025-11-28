@@ -14,7 +14,7 @@ sitemap: false
 <div class="news-card-body">
 <div class="news-card-date">{{ article.date }}</div>
 <div class="news-card-text">
-{{ article.headline | markdownify }}
+{{ article.headline|markdownify }}
 </div>
 </div>
 
