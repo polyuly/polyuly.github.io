@@ -17,7 +17,7 @@ sitemap: false
 </div>
 {% endif %}
 
-<div class="news-card">
+<div class="news-card-body">
 <div class="news-card-date">{{ article.date }}</div>
 <div class="news-card-text">
 {{ article.headline | markdownify }}
