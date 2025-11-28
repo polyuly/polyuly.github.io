@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-## Group vision and mission
+### Group vision and mission
 
 <p align = "justify">
 
@@ -68,7 +68,7 @@ Our **mission**:
   </a>
 </div>
 
-## Research Fields
+### Research Fields
 
 <div class="col-sm-12 clearfix">
  <div class="well">
