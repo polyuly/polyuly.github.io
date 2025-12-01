@@ -12,19 +12,19 @@ sitemap: false
   <div class="news-card clearfix">
 
 <div class="news-card-body">
-      <p class="news-card-date"><strong>{{ article.date }}</strong></p>
-      <div class="news-card-text">
-        {{ article.headline | markdownify }}
-      </div>
-    </div>
+  <p class="news-card-date"><strong>{{ article.date }}</strong></p>
+  <div class="news-card-text">
+  {{ article.headline | markdownify }}
+  </div>
+  </div>
 
  {% if article.image %}
-      <div class="news-card-image">
-        <img src="{{ site.url }}{{ site.baseurl }}{{ article.image }}"
-             alt="News image"
-             class="news-img">
-      </div>
-    {% endif %}
+  <div class="news-card-image">
+  <img src="{{ site.url }}{{ site.baseurl }}{{ article.image }}"
+  alt="News image"
+  class="news-img">
+  </div>
+  {% endif %}
 
 </div>
 
