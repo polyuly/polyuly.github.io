@@ -7,7 +7,7 @@ sitemap: false
 
 <h2>News</h2>
 
-<div class="news-list">
+<div class = "news-list">
 {% for article in site.data.news %}
   <div class="news-card clearfix">
 
