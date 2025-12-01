@@ -43,10 +43,10 @@ Our **mission**:
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/group1.JPG" alt="Slide 0" />
         </div>
       <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/group3.JPG" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/wechat.jpg" alt="Slide 1" />
         </div>
       <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/group4.JPG" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/group4.JPG" alt="Slide 2" />
         </div>
         
     </div>
