@@ -7,7 +7,7 @@ permalink: /member/
 ---
 ### Group Members
 
-## Lead of Psychosocial Intervention
+### Lead of Psychosocial Intervention
 {% assign number_printed = 0 %}
 {% for member in site.data.RAP %}
 
@@ -62,7 +62,7 @@ permalink: /member/
 </div>
 {% endif %}
 
-## Lead of Patient and Public Involvement and Engagement
+### Lead of Patient and Public Involvement and Engagement
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
