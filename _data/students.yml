@@ -9,6 +9,7 @@
 #  education4:
 
 - name: He Mengting 何梦婷
+  title: Lead of Management
   photo: mandylife.jpg
   research_interest: AI-based intervention
   email: menghe@polyu.edu.hk
@@ -17,6 +18,7 @@
   education2: B.Eng, Xiang’tan University, 2018
 
 - name: Lu Yufei 卢宇飞
+  title: Software Engineer
   photo: yufei.jpeg
   research_interest: Virtual Reality, Human-Computer Interaction
   email: yu-fei.lu@polyu.edu.hk
@@ -26,6 +28,7 @@
   education3: BAC Australian National Uniiversity, 2021
 
 - name: Sun Tsz Ching 孫芷晴
+  title: Lead of Patient Outreach
   photo: Sally's photo.jpg
   email: tchingsun@polyu.edu.hk
   research_interest: Psychological Intervention
