@@ -132,38 +132,52 @@ permalink: /member/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <h4 style="margin-top:0; font-weight:600;">{{ member.title }}</h4>
+  <h4 style="margin-top:0; margin-bottom:6px; font-weight:600;">
+  {{ member.title }}
+  </h4>
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right:15px;" />
-  
-  <h4 style="margin-top: 0px; margin-bottom: 5px;">{{ member.name }}</h4>
-  <i>{{ member.info }}<br>Email: <{{ member.email }}><br>Research Interest: {{ member.research_interest }}</i>
-  <ul style="overflow: hidden">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
+  class="img-responsive"
+  width="25%"
+  style="float:left; margin-right:15px;" />
+  <div style="overflow:hidden;">
 
+
+<h4 style="margin-top:0; margin-bottom:2px;">
+  {{ member.name }}
+  </h4>
+
+ <i style="display:block; margin-top:0;">
+  Email: <{{ member.email }}><br>
+  Research Interest: {{ member.research_interest }}
+  </i>
+
+ <ul style="margin-top:4px; padding-left:18px;">
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <li>{{ member.education1 }}</li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  <li>{{ member.education1 }}</li>
+  <li>{{ member.education2 }}</li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  <li>{{ member.education1 }}</li>
+  <li>{{ member.education2 }}</li>
+  <li>{{ member.education3 }}</li>
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  <li>{{ member.education1 }}</li>
+  <li>{{ member.education2 }}</li>
+  <li>{{ member.education3 }}</li>
+  <li>{{ member.education4 }}</li>
   {% endif %}
   </ul>
-
+  </div>
 </div>
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 
