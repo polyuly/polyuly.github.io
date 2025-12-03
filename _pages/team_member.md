@@ -28,7 +28,7 @@ permalink: /member/
   
   <div style="overflow:hidden;">
 
-<h4 style="margin-top:0; margin-bottom:6px;">
+  <h4 style="margin-top:0; margin-bottom:6px;">
   {{ member.name }}
   </h4>
 
@@ -112,20 +112,6 @@ permalink: /member/
 {% endif %}
 
 
-
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 
 
@@ -303,7 +289,7 @@ permalink: /member/
 <div class="row" style="margin-bottom:40px;">
 {% endif %}
 
-<div class="col-sm-6 clearfix" style="margin-bottom:40px;"
+<div class="col-sm-6 clearfix" style="margin-bottom:40px;">
 
 <h4 style="margin-top:0; margin-bottom:12px; font-weight:600;">
   {{ member.title }}
