@@ -118,6 +118,7 @@ permalink: /member/
 {% endif %}
 
 
+
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_student %}
 
@@ -132,7 +133,7 @@ permalink: /member/
 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right:15px;" />
   
-  <h4>{{ member.name }}</h4>
+  <h4 style="margin-top: 0px; margin-bottom: 5px;">{{ member.name }}</h4>
   <i>{{ member.info }}<br>Email: <{{ member.email }}><br>Research Interest: {{ member.research_interest }}</i>
   <ul style="overflow: hidden">
 
