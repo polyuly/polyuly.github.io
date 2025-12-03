@@ -8,7 +8,7 @@
 #  education3:
 #  education4:
 
-- name: He Mengting 何梦婷
+- name: He Mengting 何梦婷, Research accociate
   title: Lead of Management
   photo: mandylife.jpg
   research_interest: AI-based intervention
@@ -17,7 +17,7 @@
   education1: MSc, The Hong Kong University of Science and Technology, 2022
   education2: B.Eng, Xiang’tan University, 2018
 
-- name: Lu Yufei 卢宇飞
+- name: Lu Yufei 卢宇飞, Research assistant
   title: Software Engineer
   photo: yufei.jpeg
   research_interest: Virtual Reality, Human-Computer Interaction
@@ -27,7 +27,7 @@
   education2: BCS Shandong University, 2021
   education3: BAC Australian National Uniiversity, 2021
 
-- name: Sun Tsz Ching 孫芷晴
+- name: Sun Tsz Ching 孫芷晴, Research accociate
   title: Lead of Patient Outreach
   photo: Sally's photo.jpg
   email: tchingsun@polyu.edu.hk
