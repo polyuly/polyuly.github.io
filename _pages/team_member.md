@@ -118,7 +118,6 @@ permalink: /member/
 {% endif %}
 
 
-## PhD Student
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_student %}
 
@@ -129,7 +128,9 @@ permalink: /member/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4 style="margin-top:0; font-weight:600;">{{ member.title }}</h4>
+
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right:15px;" />
   
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>Email: <{{ member.email }}><br>Research Interest: {{ member.research_interest }}</i>
