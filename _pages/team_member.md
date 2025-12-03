@@ -7,7 +7,7 @@ permalink: /member/
 ---
 ### Group Members
 
-### Lead of Psychosocial Intervention
+
 {% assign number_printed = 0 %}
 {% for member in site.data.RAP %}
 
@@ -18,9 +18,10 @@ permalink: /member/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <h4 style="margin-top:0; font-weight:600;">{{ member.title }}</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   
-  <h4>{{ member.name }}</h4>
+  <h4 style="margin-top: 0px; margin-bottom: 5px;">{{ member.name }}</h4>
   <i>{{ member.info }}<br>Email: <{{ member.email }}><br>Research Interest: {{ member.research_interest }}</i>
   <ul style="overflow: hidden">
 
@@ -62,7 +63,8 @@ permalink: /member/
 </div>
 {% endif %}
 
-### Lead of Patient and Public Involvement and Engagement
+
+
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
@@ -73,9 +75,10 @@ permalink: /member/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <h4 style="margin-top:0; font-weight:600;">{{ member.title }}</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   
-  <h4>{{ member.name }}</h4>
+  <h4 style="margin-top: 0px; margin-bottom: 5px;">{{ member.name }}</h4>
   <i>{{ member.info }}<br>Email: <{{ member.email }}><br>Research Interest: {{ member.research_interest }}</i>
   <ul style="overflow: hidden">
 
@@ -176,7 +179,6 @@ permalink: /member/
 {% endif %}
 
 
-## DHSc Student
 {% assign number_printed = 0 %}
 {% for member in site.data.DHSc_student %}
 
@@ -187,9 +189,10 @@ permalink: /member/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <h4 style="margin-top:0; font-weight:600;">{{ member.title }}</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   
-  <h4>{{ member.name }}</h4>
+  <h4 style="margin-top: 0px; margin-bottom: 5px;">{{ member.name }}</h4>
   <i>{{ member.info }}<br>Email: <{{ member.email }}><br>Research Interest: {{ member.research_interest }}</i>
   <ul style="overflow: hidden">
 
