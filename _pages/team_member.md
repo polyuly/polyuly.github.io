@@ -334,7 +334,10 @@ permalink: /member/
 
 
 
-## Student Helper
+<h4 style="margin-top:40px; margin-bottom:12px; font-weight:600;">
+  Student Helper
+</h4>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.ug_student_members %}
 
@@ -391,7 +394,10 @@ permalink: /member/
 
 
 
-## Alumni
+<h4 style="margin-top:40px; margin-bottom:12px; font-weight:600;">
+  Alumni
+</h4>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
