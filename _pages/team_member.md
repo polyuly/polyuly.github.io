@@ -128,11 +128,11 @@ permalink: /member/
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row" style="margin-bottom:40px;">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <h4 style="margin-top:0; margin-bottom:6px; font-weight:600;">
+<div class="col-sm-6 clearfix" style="margin-bottom:40px;">
+  <h4 style="margin-top:0; margin-bottom:12px; font-weight:600;">
   {{ member.title }}
   </h4>
 
@@ -140,43 +140,41 @@ permalink: /member/
   class="img-responsive"
   width="25%"
   style="float:left; margin-right:15px;" />
-  <div style="overflow:hidden;">
+
+<div style="overflow:hidden;">
 
 
-<h4 style="margin-top:0; margin-bottom:2px;">
+<h4 style="margin-top:0; margin-bottom:6px;">
   {{ member.name }}
   </h4>
 
- <i style="display:block; margin-top:0;">
+<i style="display:block; margin-top:0;">
   Email: <{{ member.email }}><br>
   Research Interest: {{ member.research_interest }}
   </i>
 
- <ul style="margin-top:4px; padding-left:18px;">
-  {% if member.number_educ == 1 %}
-  <li>{{ member.education1 }}</li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li>{{ member.education1 }}</li>
-  <li>{{ member.education2 }}</li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li>{{ member.education1 }}</li>
-  <li>{{ member.education2 }}</li>
-  <li>{{ member.education3 }}</li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li>{{ member.education1 }}</li>
-  <li>{{ member.education2 }}</li>
-  <li>{{ member.education3 }}</li>
-  <li>{{ member.education4 }}</li>
-  {% endif %}
+  <ul style="margin-top:6px; padding-left:18px;">
+  {% if member.number_educ >= 1 %}<li>{{ member.education1 }}</li>{% endif %}
+  {% if member.number_educ >= 2 %}<li>{{ member.education2 }}</li>{% endif %}
+  {% if member.number_educ >= 3 %}<li>{{ member.education3 }}</li>{% endif %}
+  {% if member.number_educ >= 4 %}<li>{{ member.education4 }}</li>{% endif %}
   </ul>
   </div>
 </div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
 
 
 {% assign number_printed = number_printed | plus: 1 %}
