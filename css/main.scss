@@ -140,3 +140,12 @@ firstp {
     font-weight: 500;
 	padding: 10px 12px;
 }
+
+.page-content h2, 
+.page-content h3 {
+  font-weight: 600;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 22px;   /* 可调整 */
+  color: #000;       /* 或 #333，根据你 Lead 的颜色 */
+}
