@@ -137,9 +137,9 @@ permalink: /member/
 <div style="overflow:hidden;">
 
 
-<h4 style="margin-top:0; margin-bottom:6px;">
-  {{ member.name }}
-  </h4>
+<h4 style="margin-top:10px; margin-bottom:6px;">
+ {{ member.name }}
+ </h4>
 
 <i style="display:block; margin-top:0;">
   Email: <{{ member.email }}><br>
