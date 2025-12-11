@@ -9,13 +9,6 @@ permalink: /research/
 
 <h2>Research Projects</h2>
 
-<nav class="project-nav" style="margin-bottom: 20px;">
-  <a href="#digital">Digital / e-Health Intervention</a> |
-  <a href="#mentalhealth">Mental Health Promotion</a> |
-   <a href="#SCI">Spinal Cord Injury Rehabilitation</a> |
-  <a href="#teaching">Teaching &amp; Learning Grants</a>
-</nav>
-
 <hr>
 
 <h3 id="digital">Digital / e-Health Intervention</h3>
@@ -24,34 +17,37 @@ permalink: /research/
 Representative projects focusing on digital mental health, virtual reality, chatbots, and other technology-based interventions.
 </p>
 
-<div class="row project-grid">
-  {% for project in site.data.projects.digital %}
-  <div class="col-sm-6">
-  <div class="project-card">
+{% for project in site.data.projects.digital %}
+
+<div class="project-card" style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+
   {% if project.image %}
-  <img src="{{ site.url }}{{ site.baseurl }}{{ project.image }}"
-  alt="Project image"
-  class="img-responsive project-card-img">
+    <img src="{{ site.baseurl }}{{ project.image }}"
+    alt="{{ project.title }}"
+    class="img-responsive"
+    style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
   {% endif %}
 
-<h4 class="project-card-title">{{ project.title }}</h4>
+  <h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
+    {{ project.title }}
+  </h4>
 
-  <p class="project-card-meta">
-  <strong>Funder:</strong> {{ project.funder }}<br>
-  <strong>Duration:</strong> {{ project.duration }}
+  <p style="margin-bottom:6px;">
+    <strong>Funder:</strong> {{ project.funder }} <br>
+    <strong>Duration:</strong> {{ project.duration }}
   </p>
 
   {% if project.more_information %}
-  <p class="project-card-links">
-  {% for link in project.more_information %}
-  <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>{% unless forloop.last %} · {% endunless %}
-  {% endfor %}
-  </p>
+    <p style="margin-bottom:0;">
+    <strong>More information:</strong><br>
+    {% for item in project.more_information %}
+    <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+    {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
+    {% endfor %}
+    </p>
   {% endif %}
-  </div>
-  </div>
-  {% endfor %}
 </div>
+
 
 
 <h3 id="mentalhealth" style="margin-top: 30px;">Mental Health Promotion</h3>
@@ -61,33 +57,35 @@ Representative projects focusing on mental health promotion among diverse
 populations and settings.
 </p>
 
-<div class="row project-grid">
-  {% for project in site.data.projects.mental_health %}
-  <div class="col-sm-6">
-  <div class="project-card">
+{% for project in site.data.projects.mentalhealth %}
+
+<div class="project-card" style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+
   {% if project.image %}
-  <img src="{{ site.url }}{{ site.baseurl }}{{ project.image }}"
-  alt="Project image"
-  class="img-responsive project-card-img">
+    <img src="{{ site.baseurl }}{{ project.image }}"
+    alt="{{ project.title }}"
+    class="img-responsive"
+    style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
   {% endif %}
 
-  <h4 class="project-card-title">{{ project.title }}</h4>
+  <h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
+    {{ project.title }}
+  </h4>
 
-  <p class="project-card-meta">
-  <strong>Funder:</strong> {{ project.funder }}<br>
-  <strong>Duration:</strong> {{ project.duration }}
+  <p style="margin-bottom:6px;">
+    <strong>Funder:</strong> {{ project.funder }} <br>
+    <strong>Duration:</strong> {{ project.duration }}
   </p>
 
   {% if project.more_information %}
-  <p class="project-card-links">
-  {% for link in project.more_information %}
-  <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>{% unless forloop.last %} · {% endunless %}
-  {% endfor %}
-  </p>
+    <p style="margin-bottom:0;">
+    <strong>More information:</strong><br>
+    {% for item in project.more_information %}
+    <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+    {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
+    {% endfor %}
+    </p>
   {% endif %}
-  </div>
-  </div>
-  {% endfor %}
 </div>
 
 
@@ -99,33 +97,35 @@ Projects emphasizing rehabilitation and psychosocial outcomes among people
 living with spinal cord injury.
 </p>
 
-<div class="row project-grid">
-  {% for project in site.data.projects.SCI %}
-  <div class="col-sm-6">
-  <div class="project-card">
+{% for project in site.data.projects.SCI %}
+
+<div class="project-card" style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+
   {% if project.image %}
-  <img src="{{ site.url }}{{ site.baseurl }}{{ project.image }}"
-  alt="Project image"
-  class="img-responsive project-card-img">
+    <img src="{{ site.baseurl }}{{ project.image }}"
+    alt="{{ project.title }}"
+    class="img-responsive"
+    style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
   {% endif %}
 
-  <h4 class="project-card-title">{{ project.title }}</h4>
+  <h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
+    {{ project.title }}
+  </h4>
 
-  <p class="project-card-meta">
-  <strong>Funder:</strong> {{ project.funder }}<br>
-  <strong>Duration:</strong> {{ project.duration }}
+  <p style="margin-bottom:6px;">
+    <strong>Funder:</strong> {{ project.funder }} <br>
+    <strong>Duration:</strong> {{ project.duration }}
   </p>
 
   {% if project.more_information %}
-  <p class="project-card-links">
-  {% for link in project.more_information %}
-  <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>{% unless forloop.last %} · {% endunless %}
-  {% endfor %}
-  </p>
+    <p style="margin-bottom:0;">
+    <strong>More information:</strong><br>
+    {% for item in project.more_information %}
+    <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+    {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
+    {% endfor %}
+    </p>
   {% endif %}
-  </div>
-  </div>
-  {% endfor %}
 </div>
 
 
