@@ -5,7 +5,6 @@ excerpt: "Digital Psychosocial Health Research Group: Team members"
 sitemap: false
 permalink: /member/
 ---
-### Group Members
 
 
 {% assign number_printed = 0 %}
