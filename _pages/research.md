@@ -47,7 +47,7 @@ Representative projects focusing on digital mental health, virtual reality, chat
     </p>
   {% endif %}
 </div>
-
+{% endfor %}
 
 
 <h3 id="mentalhealth" style="margin-top: 30px;">Mental Health Promotion</h3>
@@ -87,7 +87,7 @@ populations and settings.
     </p>
   {% endif %}
 </div>
-
+{% endfor %}
 
 
 <h3 id="SCI" style="margin-top: 30px;">Spinal Cord Injury Rehabilitation</h3>
@@ -127,7 +127,7 @@ living with spinal cord injury.
     </p>
   {% endif %}
 </div>
-
+{% endfor %}
 
 
 <h3 id="teaching" style="margin-top: 30px;">Teaching &amp; Learning Grants</h3>
@@ -165,6 +165,7 @@ new teaching tools, or education research.
   </div>
   {% endfor %}
 </div>
+{% endfor %}
 
 1. Innovative Integration of Smart Wearable Rings and Conversational Fabric Bots for Enhancing Mental Health in Patients with Inflammatory Arthritis: A Pragmatic Randomized Clinical Trial.
 
