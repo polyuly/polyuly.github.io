@@ -6,45 +6,165 @@ sitemap: false
 permalink: /research/
 ---
 
-### Research Project
 
-### Research/Academic Grants As Principal Investigator
+<h2>Research Projects</h2>
 
-<!-- {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+<nav class="project-nav" style="margin-bottom: 20px;">
+  <a href="#digital">Digital / e-Health Intervention</a> |
+  <a href="#mentalhealth">Mental Health Promotion</a> |
+   <a href="#SCI">Spinal Cord Injury Rehabilitation</a> |
+  <a href="#teaching">Teaching &amp; Learning Grants</a>
+</nav>
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+<hr>
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+<h3 id="digital">Digital / e-Health Intervention</h3>
 
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
+<p>
+Representative projects focusing on digital mental health, virtual reality, chatbots, and other technology-based interventions.
+</p>
+
+<div class="row project-grid">
+  {% for project in site.data.projects.digital %}
+  <div class="col-sm-6">
+  <div class="project-card">
+  {% if project.image %}
+  <img src="{{ site.url }}{{ site.baseurl }}{{ project.image }}"
+  alt="Project image"
+  class="img-responsive project-card-img">
+  {% endif %}
+
+<h4 class="project-card-title">{{ project.title }}</h4>
+
+  <p class="project-card-meta">
+  <strong>Funder:</strong> {{ project.funder }}<br>
+  <strong>Duration:</strong> {{ project.duration }}
+  </p>
+
+  {% if project.more_information %}
+  <p class="project-card-links">
+  {% for link in project.more_information %}
+  <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>{% unless forloop.last %} · {% endunless %}
+  {% endfor %}
+  </p>
+  {% endif %}
+  </div>
+  </div>
+  {% endfor %}
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
+<h3 id="mentalhealth" style="margin-top: 30px;">Mental Health Promotion</h3>
+
+<p>
+Representative projects focusing on mental health promotion among diverse
+populations and settings.
+</p>
+
+<div class="row project-grid">
+  {% for project in site.data.projects.mental_health %}
+  <div class="col-sm-6">
+  <div class="project-card">
+  {% if project.image %}
+  <img src="{{ site.url }}{{ site.baseurl }}{{ project.image }}"
+  alt="Project image"
+  class="img-responsive project-card-img">
+  {% endif %}
+
+  <h4 class="project-card-title">{{ project.title }}</h4>
+
+  <p class="project-card-meta">
+  <strong>Funder:</strong> {{ project.funder }}<br>
+  <strong>Duration:</strong> {{ project.duration }}
+  </p>
+
+  {% if project.more_information %}
+  <p class="project-card-links">
+  {% for link in project.more_information %}
+  <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>{% unless forloop.last %} · {% endunless %}
+  {% endfor %}
+  </p>
+  {% endif %}
+  </div>
+  </div>
+  {% endfor %}
 </div>
-{% endif %}
 
-{% endif %}
-{% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+
+<h3 id="SCI" style="margin-top: 30px;">Spinal Cord Injury Rehabilitation</h3>
+
+<p>
+Projects emphasizing rehabilitation and psychosocial outcomes among people
+living with spinal cord injury.
+</p>
+
+<div class="row project-grid">
+  {% for project in site.data.projects.SCI %}
+  <div class="col-sm-6">
+  <div class="project-card">
+  {% if project.image %}
+  <img src="{{ site.url }}{{ site.baseurl }}{{ project.image }}"
+  alt="Project image"
+  class="img-responsive project-card-img">
+  {% endif %}
+
+  <h4 class="project-card-title">{{ project.title }}</h4>
+
+  <p class="project-card-meta">
+  <strong>Funder:</strong> {{ project.funder }}<br>
+  <strong>Duration:</strong> {{ project.duration }}
+  </p>
+
+  {% if project.more_information %}
+  <p class="project-card-links">
+  {% for link in project.more_information %}
+  <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>{% unless forloop.last %} · {% endunless %}
+  {% endfor %}
+  </p>
+  {% endif %}
+  </div>
+  </div>
+  {% endfor %}
 </div>
-{% endif %} -->
+
+
+
+<h3 id="teaching" style="margin-top: 30px;">Teaching &amp; Learning Grants</h3>
+
+<p>
+Teaching-related grants and projects, such as curriculum innovation,
+new teaching tools, or education research.
+</p>
+
+<div class="row project-grid">
+  {% for project in site.data.projects.teaching %}
+  <div class="col-sm-6">
+  <div class="project-card">
+  {% if project.image %}
+  <img src="{{ site.url }}{{ site.baseurl }}{{ project.image }}"
+  alt="Project image"
+  class="img-responsive project-card-img">
+  {% endif %}
+
+  <h4 class="project-card-title">{{ project.title }}</h4>
+
+  <p class="project-card-meta">
+  <strong>Funder:</strong> {{ project.funder }}<br>
+  <strong>Duration:</strong> {{ project.duration }}
+  </p>
+
+  {% if project.more_information %}
+  <p class="project-card-links">
+  {% for link in project.more_information %}
+  <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>{% unless forloop.last %} · {% endunless %}
+  {% endfor %}
+  </p>
+  {% endif %}
+  </div>
+  </div>
+  {% endfor %}
+</div>
 
 1. Innovative Integration of Smart Wearable Rings and Conversational Fabric Bots for Enhancing Mental Health in Patients with Inflammatory Arthritis: A Pragmatic Randomized Clinical Trial.
 
