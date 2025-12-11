@@ -19,34 +19,37 @@ Representative projects focusing on digital mental health, virtual reality, chat
 
 {% for project in site.data.projects.digital %}
 
-<div class="project-card" style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+<div class="project-card"
+ style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
 
   {% if project.image %}
     <img src="{{ site.baseurl }}{{ project.image }}"
     alt="{{ project.title }}"
     class="img-responsive"
     style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
-  {% endif %}
+{% endif %}
 
-  <h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
+<h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
     {{ project.title }}
   </h4>
 
-  <p style="margin-bottom:6px;">
+<p style="margin-bottom:6px;">
     <strong>Funder:</strong> {{ project.funder }} <br>
     <strong>Duration:</strong> {{ project.duration }}
-  </p>
+</p>
 
-  {% if project.more_information %}
-    <p style="margin-bottom:0;">
-    <strong>More information:</strong><br>
-    {% for item in project.more_information %}
-    <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
-    {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
-    {% endfor %}
-    </p>
+{% if project.more_information %}
+  <p style="margin-bottom:0;">
+  <strong>More information:</strong><br>
+  {% for item in project.more_information %}
+  <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+  {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
+  {% endfor %}
+  </p>
   {% endif %}
+
 </div>
+
 {% endfor %}
 
 
@@ -59,34 +62,37 @@ populations and settings.
 
 {% for project in site.data.projects.mentalhealth %}
 
-<div class="project-card" style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+<div class="project-card"
+ style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
 
   {% if project.image %}
     <img src="{{ site.baseurl }}{{ project.image }}"
     alt="{{ project.title }}"
     class="img-responsive"
     style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
-  {% endif %}
+{% endif %}
 
-  <h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
+<h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
     {{ project.title }}
   </h4>
 
-  <p style="margin-bottom:6px;">
+<p style="margin-bottom:6px;">
     <strong>Funder:</strong> {{ project.funder }} <br>
     <strong>Duration:</strong> {{ project.duration }}
-  </p>
+</p>
 
-  {% if project.more_information %}
-    <p style="margin-bottom:0;">
-    <strong>More information:</strong><br>
-    {% for item in project.more_information %}
-    <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
-    {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
-    {% endfor %}
-    </p>
+{% if project.more_information %}
+  <p style="margin-bottom:0;">
+  <strong>More information:</strong><br>
+  {% for item in project.more_information %}
+  <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+  {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
+  {% endfor %}
+  </p>
   {% endif %}
+
 </div>
+
 {% endfor %}
 
 
@@ -99,72 +105,77 @@ living with spinal cord injury.
 
 {% for project in site.data.projects.SCI %}
 
-<div class="project-card" style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+<div class="project-card"
+ style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
 
   {% if project.image %}
     <img src="{{ site.baseurl }}{{ project.image }}"
     alt="{{ project.title }}"
     class="img-responsive"
     style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
-  {% endif %}
+{% endif %}
 
-  <h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
+<h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
     {{ project.title }}
   </h4>
 
-  <p style="margin-bottom:6px;">
+<p style="margin-bottom:6px;">
     <strong>Funder:</strong> {{ project.funder }} <br>
     <strong>Duration:</strong> {{ project.duration }}
-  </p>
+</p>
 
-  {% if project.more_information %}
-    <p style="margin-bottom:0;">
-    <strong>More information:</strong><br>
-    {% for item in project.more_information %}
-    <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
-    {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
-    {% endfor %}
-    </p>
+{% if project.more_information %}
+  <p style="margin-bottom:0;">
+  <strong>More information:</strong><br>
+  {% for item in project.more_information %}
+  <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+  {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
+  {% endfor %}
+  </p>
   {% endif %}
+
 </div>
+
 {% endfor %}
 
 
 <h3 id="teaching" style="margin-top: 30px;">Teaching &amp; Learning Grants</h3>
 
 <p>
-Teaching-related grants and projects, such as curriculum innovation,
-new teaching tools, or education research.
+Teaching-related grants and projects, such as curriculum innovation,new teaching tools, or education research.
 </p>
 
-<div class="row project-grid">
-  {% for project in site.data.projects.teaching %}
-  <div class="col-sm-6">
-  <div class="project-card">
+<div class="project-card"
+ style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+
   {% if project.image %}
-  <img src="{{ site.url }}{{ site.baseurl }}{{ project.image }}"
-  alt="Project image"
-  class="img-responsive project-card-img">
-  {% endif %}
+    <img src="{{ site.baseurl }}{{ project.image }}"
+    alt="{{ project.title }}"
+    class="img-responsive"
+    style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
+{% endif %}
 
-  <h4 class="project-card-title">{{ project.title }}</h4>
+<h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
+    {{ project.title }}
+  </h4>
 
-  <p class="project-card-meta">
-  <strong>Funder:</strong> {{ project.funder }}<br>
-  <strong>Duration:</strong> {{ project.duration }}
-  </p>
+<p style="margin-bottom:6px;">
+    <strong>Funder:</strong> {{ project.funder }} <br>
+    <strong>Duration:</strong> {{ project.duration }}
+</p>
 
-  {% if project.more_information %}
-  <p class="project-card-links">
-  {% for link in project.more_information %}
-  <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>{% unless forloop.last %} · {% endunless %}
+{% if project.more_information %}
+  <p style="margin-bottom:0;">
+  <strong>More information:</strong><br>
+  {% for item in project.more_information %}
+  <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+  {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
   {% endfor %}
   </p>
   {% endif %}
-  </div>
-  </div>
-  {% endfor %}
+
 </div>
+
 {% endfor %}
 
 1. Innovative Integration of Smart Wearable Rings and Conversational Fabric Bots for Enhancing Mental Health in Patients with Inflammatory Arthritis: A Pragmatic Randomized Clinical Trial.
