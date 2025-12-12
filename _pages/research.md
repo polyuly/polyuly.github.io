@@ -19,34 +19,33 @@ Representative projects focusing on digital mental health, virtual reality, chat
 
 {% for project in site.data.projects.digital %}
 
-<div class="project-card"
- style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+<div class="project-card" style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
 
   {% if project.image %}
-    <img src="{{ site.baseurl }}{{ project.image }}"
-    alt="{{ project.title }}"
-    class="img-responsive"
-    style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
+  <img src="{{ site.baseurl }}{{ project.image }}"
+  alt="{{ project.title }}"
+  class="img-responsive"
+  style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
 {% endif %}
 
 <h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
-    {{ project.title }}
-  </h4>
+  {{ project.title }}
+</h4>
 
 <p style="margin-bottom:6px;">
-    <strong>Funder:</strong> {{ project.funder }} <br>
-    <strong>Duration:</strong> {{ project.duration }}
+  <strong>Funder:</strong> {{ project.funder }} <br>
+  <strong>Duration:</strong> {{ project.duration }}
 </p>
 
-{% if project.more_information %}
-  <p style="margin-bottom:0;">
+{% if project.more_information and project.more_information.size > 0 %}
+<p style="margin-bottom:0;">
   <strong>More information:</strong><br>
   {% for item in project.more_information %}
   <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
   {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
   {% endfor %}
   </p>
-  {% endif %}
+{% endif %}
 
 </div>
 
@@ -60,25 +59,25 @@ Representative projects focusing on mental health promotion among diverse
 populations and settings.
 </p>
 
-{% for project in site.data.projects.mentalhealth %}
+{% for project in site.data.projects.mental_health %}
 
 <div class="project-card"
  style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
 
   {% if project.image %}
-    <img src="{{ site.baseurl }}{{ project.image }}"
-    alt="{{ project.title }}"
-    class="img-responsive"
-    style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
+  <img src="{{ site.baseurl }}{{ project.image }}"
+  alt="{{ project.title }}"
+  class="img-responsive"
+  style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
 {% endif %}
 
 <h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
-    {{ project.title }}
+  {{ project.title }}
   </h4>
 
 <p style="margin-bottom:6px;">
-    <strong>Funder:</strong> {{ project.funder }} <br>
-    <strong>Duration:</strong> {{ project.duration }}
+  <strong>Funder:</strong> {{ project.funder }} <br>
+  <strong>Duration:</strong> {{ project.duration }}
 </p>
 
 {% if project.more_information %}
@@ -103,25 +102,25 @@ Projects emphasizing rehabilitation and psychosocial outcomes among people
 living with spinal cord injury.
 </p>
 
-{% for project in site.data.projects.SCI %}
+{% for project in site.data.projects.sci %}
 
 <div class="project-card"
  style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
 
   {% if project.image %}
-    <img src="{{ site.baseurl }}{{ project.image }}"
-    alt="{{ project.title }}"
-    class="img-responsive"
-    style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
+  <img src="{{ site.baseurl }}{{ project.image }}"
+  alt="{{ project.title }}"
+  class="img-responsive"
+  style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
 {% endif %}
 
 <h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
-    {{ project.title }}
+  {{ project.title }}
   </h4>
 
 <p style="margin-bottom:6px;">
-    <strong>Funder:</strong> {{ project.funder }} <br>
-    <strong>Duration:</strong> {{ project.duration }}
+  <strong>Funder:</strong> {{ project.funder }} <br>
+  <strong>Duration:</strong> {{ project.duration }}
 </p>
 
 {% if project.more_information %}
@@ -132,7 +131,7 @@ living with spinal cord injury.
   {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
   {% endfor %}
   </p>
-  {% endif %}
+{% endif %}
 
 </div>
 
@@ -145,23 +144,22 @@ living with spinal cord injury.
 Teaching-related grants and projects, such as curriculum innovation,new teaching tools, or education research.
 </p>
 
-<div class="project-card"
- style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
-
+{% for project in site.data.projects.teaching %}
+<div class="project-card" style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
   {% if project.image %}
-    <img src="{{ site.baseurl }}{{ project.image }}"
-    alt="{{ project.title }}"
-    class="img-responsive"
-    style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
+  <img src="{{ site.baseurl }}{{ project.image }}"
+  alt="{{ project.title }}"
+  class="img-responsive"
+  style="max-width:420px; border-radius:8px; margin-bottom:12px; display:block; margin-left:auto; margin-right:auto;">
 {% endif %}
 
 <h4 style="margin-top:0; margin-bottom:8px; font-weight:600;">
-    {{ project.title }}
+  {{ project.title }}
   </h4>
 
 <p style="margin-bottom:6px;">
-    <strong>Funder:</strong> {{ project.funder }} <br>
-    <strong>Duration:</strong> {{ project.duration }}
+  <strong>Funder:</strong> {{ project.funder }} <br>
+  <strong>Duration:</strong> {{ project.duration }}
 </p>
 
 {% if project.more_information %}
