@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 
-<h2>Research Projects</h2>
+<h3>Research Projects</h3>
 
 <hr>
 
@@ -19,7 +19,7 @@ Representative projects focusing on digital mental health, virtual reality, chat
 
 {% for project in site.data.projects.digital %}
 
-<div class="project-card" style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+<div class="project-card" style="border:1px solid #d9d9d9; background:#f7f7f7; border-radius:10px; padding:18px 20px; margin-bottom:28px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
 
   {% if project.image %}
   <img src="{{ site.baseurl }}{{ project.image }}"
@@ -32,17 +32,20 @@ Representative projects focusing on digital mental health, virtual reality, chat
   {{ project.title }}
 </h4>
 
-<p style="margin-bottom:6px;">
-  <strong>Funder:</strong> {{ project.funder }} <br>
-  <strong>Duration:</strong> {{ project.duration }}
-</p>
+<h5 style="margin-top:0; margin-bottom:4px; font-weight:600;">
+  Funder: {{ project.funder }}
+</h5>
+
+<h5 style="margin-top:0; margin-bottom:8px; font-weight:600;">
+  Duration: {{ project.duration }}
+</h5>
 
 {% if project.more_information and project.more_information.size > 0 %}
 <p style="margin-bottom:0;">
-  <strong>More information:</strong><br>
+  <strong>More information:</strong>
   {% for item in project.more_information %}
   <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
-  {% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
+  {% unless forloop.last %}|{% endunless %}
   {% endfor %}
   </p>
 {% endif %}
