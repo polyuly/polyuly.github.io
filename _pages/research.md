@@ -55,17 +55,16 @@ Representative projects focusing on digital mental health, virtual reality, chat
 {% endfor %}
 
 
+
 <h3 id="mentalhealth" style="margin-top: 30px;">Mental Health Promotion</h3>
 
 <p>
-Representative projects focusing on mental health promotion among diverse
-populations and settings.
+Representative projects focusing on mental health promotion among diverse populations and settings.
 </p>
 
 {% for project in site.data.projects.mental_health %}
 
-<div class="project-card"
- style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+<div class="project-card" style="border:1px solid #d9d9d9; background:#f7f7f7; border-radius:10px; padding:18px 20px; margin-bottom:28px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
 
   {% if project.image %}
   <img src="{{ site.baseurl }}{{ project.image }}"
@@ -98,17 +97,16 @@ populations and settings.
 {% endfor %}
 
 
+
 <h3 id="SCI" style="margin-top: 30px;">Spinal Cord Injury Rehabilitation</h3>
 
 <p>
-Projects emphasizing rehabilitation and psychosocial outcomes among people
-living with spinal cord injury.
+Projects emphasizing rehabilitation and psychosocial outcomes among people living with spinal cord injury.
 </p>
 
 {% for project in site.data.projects.sci %}
 
-<div class="project-card"
- style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+<div class="project-card" style="border:1px solid #d9d9d9; background:#f7f7f7; border-radius:10px; padding:18px 20px; margin-bottom:28px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
 
   {% if project.image %}
   <img src="{{ site.baseurl }}{{ project.image }}"
@@ -139,6 +137,7 @@ living with spinal cord injury.
 </div>
 
 {% endfor %}
+
 
 
 <h3 id="teaching" style="margin-top: 30px;">Teaching &amp; Learning Grants</h3>
@@ -148,7 +147,9 @@ Teaching-related grants and projects, such as curriculum innovation,new teaching
 </p>
 
 {% for project in site.data.projects.teaching %}
-<div class="project-card" style="border:1px solid #eee; border-radius:8px; padding:18px 20px; margin-bottom:28px;">
+
+<div class="project-card" style="border:1px solid #d9d9d9; background:#f7f7f7; border-radius:10px; padding:18px 20px; margin-bottom:28px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+
   {% if project.image %}
   <img src="{{ site.baseurl }}{{ project.image }}"
   alt="{{ project.title }}"
@@ -178,6 +179,7 @@ Teaching-related grants and projects, such as curriculum innovation,new teaching
 </div>
 
 {% endfor %}
+
 
 1. Innovative Integration of Smart Wearable Rings and Conversational Fabric Bots for Enhancing Mental Health in Patients with Inflammatory Arthritis: A Pragmatic Randomized Clinical Trial.
 
