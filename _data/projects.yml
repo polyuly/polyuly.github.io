@@ -20,7 +20,7 @@ digital:
   more_information: 
   - name: "Project website"
   url: https://www.public.polyu-aivac.com/
-
+  image: "/images/projectimage/chatboticon.jpg"  
 
 mental_health:
 - title: "‘Sleep Equity for Global Health’—Promoting Healthy Sleep among Health Professionals"
