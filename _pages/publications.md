@@ -15,7 +15,11 @@ permalink: /publications/
 <p align = "justify">
 
 - Li, M., **Li, Y.**, Lam, W., Yeung, W. F., Ho, Y. S., Li, J., Sun, T. C., Yuen, S., Hu, Y., & Yorke, J. (2025). Home-based acupressure for managing constipation and subjective well-being in spinal cord injury survivors: A randomized controlled trial. Journal of Integrative and Complementary Medicine. Advance online publication. [IF=4.0, Integrative & Complementary Medicine Q1]
-
+<br>
+Full paper is available at:
+<a href="https://doi.org/10.1016/j.joim.2025.08.001" target="_blank">
+https://doi.org/10.XXXX/XXXXXX
+</a>
 </p>
 
 <p align = "justify">
