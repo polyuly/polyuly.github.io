@@ -14,105 +14,93 @@ permalink: /publications/
 ### 2025
 <p align = "justify">
 
-- Li, M., **Li, Y.**, Lam, W., Yeung, W. F., Ho, Y. S., Li, J., Sun, T. C., Yuen, S., Hu, Y., & Yorke, J. (2025). Home-based acupressure for managing constipation and subjective well-being in spinal cord injury survivors: A randomized controlled trial. Journal of Integrative and Complementary Medicine. Advance online publication. [IF=4.0, Integrative & Complementary Medicine Q1]
+- Li, M., **Li, Y.**, Lam, W., Yeung, W. F., Ho, Y. S., Li, J., Sun, T. C., Yuen, S., Hu, Y., & Yorke, J. (2025). Home-based acupressure for managing constipation and subjective well-being in spinal cord injury survivors: A randomized controlled trial. *Journal of Integrative and Complementary Medicine*. Advance online publication. [IF=4.0, Integrative & Complementary Medicine Q1]
 <br>
 Full paper is available at:
 <a href="https://doi.org/10.1016/j.joim.2025.08.001" target="_blank">
-https://doi.org/10.XXXX/XXXXXX
+https://doi.org/10.1016/j.joim.2025.08.001
 </a>
 </p>
 
 <p align = "justify">
 
-- Li, J., **Li, Y.**, Hu, Y., Ma, D. C. F., Mei, X., Chan, E. A., & Yorke, J. (2025). Chatbot-Delivered Interventions for Improving Mental Health Among Young People: A Systematic Review and Meta-Analysis. Worldviews on Evidence-based Nursing, 22(4), e70059. [IF=3.8, Nursing Q1]
-
+- Li, J., **Li, Y.**, Hu, Y., Ma, D. C. F., Mei, X., Chan, E. A., & Yorke, J. (2025). Chatbot-Delivered Interventions for Improving Mental Health Among Young People: A Systematic Review and Meta-Analysis. *Worldviews on Evidence-based Nursing*, 22(4), e70059. [IF=3.8, Nursing Q1]
+Full paper is available at:
+<a href="https://doi.org/10.1111/wvn.70059" target="_blank">
+https://doi.org/10.1111/wvn.70059
+</a>
 </p>
 
 <p align = "justify">
 
-- Dai, Y., Li, J., **Li, Y**., Wong, F. K. Y., Li, M., Li, C., Jia, Y., Wang, Y., & Yorke, J. (2025). A scoping review on the role of virtual walking intervention in enhancing wellness. npj Digital Medicine, 8(1), 217. [IF=12.4, Health Care Sciences & Services Q1]
-
+- Dai, Y., Li, J., **Li, Y**., Wong, F. K. Y., Li, M., Li, C., Jia, Y., Wang, Y., & Yorke, J. (2025). A scoping review on the role of virtual walking intervention in enhancing wellness. *npj Digital Medicine*, 8(1), 217. [IF=12.4, Health Care Sciences & Services Q1]
+Full paper is available at:
+<a href="https://doi.org/10.1038/s41746-025-01609-y" target="_blank">
+https://doi.org/10.1038/s41746-025-01609-y
+</a>
 </p>
 
 <p align = "justify">
 
-- Mei, X., Yeung, W.F., Hu, Y., He, M., Lu, W., Bayuo, J., Lanta, T. and **Li, Y.**, 2025. A scoping review of literature: What has been studied about mental health problems among individuals with ankylosing spondylitis?. Archives of Psychiatric Nursing, p.151855. [IF=2.2, Nursing Q1]
-
+- **Li, Y.**, Li, M., Yorke, J., Bressington, D., Chung, J., Xie, Y. J., Yang, L., He, M., Sun, T. C., & Leung, A. Y. M. (2025). Effects of a Theory- and Evidence-Based, Motivational Interviewing-Oriented Artificial Intelligence Digital Assistant on Vaccine Attitudes: A Randomized Controlled Trial. *Journal of Medical Internet Research*, 27, e72637. [IF=6.0, Health Care Sciences & Services Q1]
+<a href="https://doi:10.2196/72637" target="_blank">
+https://doi:10.2196/72637
+</a>
 </p>
+
 
 <p align = "justify">
 
-- Lu, W., **Li, Y.**, Montayre, J., Li, M., Ho, K. Y., Li, J., & Yorke, J., 2025. A Bibliometric Analysis of Healthcare Intervention-Related Studies Reporting Patient and Public Involvement and Engagement. Healthcare, 13(3), 305. [IF=2.4, Health Care Sciences & Services Q2]
-
-</p>
-
-<p align = "justify">
-
-- Li, M., Lo, W. Y., Hu, Y., Wang, S., Sun, T.-C., Temesgen, W. A., He, M., & **Li, Y*.** 2025. Mindfulness- and acceptance-based interventions for people with spinal cord injury: a scoping review. Spinal Cord. [IF=2.1, Rehabilitation Q1]
-
-</p>
-
-<p align = "justify">
-
-- Hu, Y., **Li, Y*.**, Li, J., Liu, J. Y. W., Gustin, S. M., Li, M., & Leung, A. Y. M. 2025. Effectiveness of Telehealth Interventions on Cognitive Function and Quality of Life in Adults With Neurological Disorders: A Systematic Review and Meta-Analysis. Journal of the American Medical Directors Association. [IF=4.2, Geriatrics & Gerontology Q1]
-
-</p>
-
-<p align = "justify">
-
-- Cochrane Central Editorial Service, Li, M., Yuen, S., Arora, M., Liu, X., Lantta, T., Craig, A. and **Li, Y*.**, 2024. Peer‐supported interventions for people with spinal cord injury. Cochrane Database of Systematic Reviews, 2024(12). [IF=8.8, Medicine, General & Internal Q1].
-
+- Hu, Y., **Li, Y*.**, Li, J., Liu, J. Y. W., Gustin, S. M., Li, M., & Leung, A. Y. M. 2025. Effectiveness of Telehealth Interventions on Cognitive Function and Quality of Life in Adults With Neurological Disorders: A Systematic Review and Meta-Analysis. *Journal of the American Medical Directors Association*. [IF=4.2, Geriatrics & Gerontology Q1]
+<a href="https://10.1016/j.jamda.2025.105491" target="_blank">
+https://10.1016/j.jamda.2025.105491
+</a>
 </p>
 
 
 ### 2024 
 <p align = "justify">
 
-- **Li, Y.**, Li, M., Bressington, D., Li, K., Wong, A.Y., Chung, W.M., Molassiotis, A., Ma, C.Z.H., Kor, P.P.K. and Yeung, W.F., 2024. Effect of a mindfulness and motivational interviewing-oriented physical-psychological integrative intervention for community-dwelling spinal cord injury survivors: A mixed-methods randomized controlled trial. Archives of Physical Medicine and Rehabilitation, 105(9), pp.1632-1641. [IF=3.6, Rehabilitation Q1]
-
+- Cochrane Central Editorial Service, Li, M., Yuen, S., Arora, M., Liu, X., Lantta, T., Craig, A. and **Li, Y*.**, 2024. Peer‐supported interventions for people with spinal cord injury. Cochrane Database of Systematic Reviews, 2024(12). [IF=8.8, Medicine, General & Internal Q1].
+<a href="https://10.1002/14651858.CD015942" target="_blank">
+https://10.1002/14651858.CD015942
+</a>
 </p>
 
 <p align = "justify">
 
-- Li, J., **Li, Y.**, Mei, X., He, H., Yu, L., Ho, G. W. K., & Chan, E. A. (2024). Effectiveness of Cognitive‐Based Interventions on Psychological Distress in Adolescents With Physical Disabilities: A Systematic Review and Meta‐Analysis. International Journal of Mental Health Nursing. [IF=3.6, Nursing Q1]
-
+- **Li, Y.**, Li, M., Bressington, D., Li, K., Wong, A.Y., Chung, W.M., Molassiotis, A., Ma, C.Z.H., Kor, P.P.K. and Yeung, W.F., 2024. Effect of a mindfulness and motivational interviewing-oriented physical-psychological integrative intervention for community-dwelling spinal cord injury survivors: A mixed-methods randomized controlled trial. Archives of Physical Medicine and Rehabilitation, 105(9), pp.1632-1641. [IF=3.6, Rehabilitation Q1]
+<a href="https://10.1016/j.apmr.2024.05.017" target="_blank">
+https://10.1016/j.apmr.2024.05.017
+</a>
 </p>
 
 <p align = "justify">
 
 - **Li, Y.**, Lee, K. C., Bressington, D., Liao, Q., He, M., Law, K. K., ... & Li, M. (2024). A Theory and Evidence-Based Artificial Intelligence-Driven Motivational Digital Assistant to Decrease Vaccine Hesitancy: Intervention Development and Validation. Vaccines, 12(7), 708.
-
+<a href="https://doi.org/10.3390/vaccines12070708" target="_blank">
+https://doi.org/10.3390/vaccines12070708
+</a>
 </p>
 
 <p align = "justify">
 
 - **Li, Y.**, Li, J., Li, M., Ho, Y. S., Sun, T. C., Wang, S., ... & Yeung, W. F. (2024). Effect of home-based acupressure on constipation in people with spinal cord injury: A study protocol for a randomized controlled trial with a mixed-method approach. European Journal of Integrative Medicine, 68, 102360.
-
+<a href="https://doi.org/10.1016/j.eujim.2024.102360" target="_blank">
+https://doi.org/10.1016/j.eujim.2024.102360
+</a>
 </p>
 
-<p align = "justify">
-
-- Meng, J., Liu, J. Y. W., Yang, L., Wong, M. S., Tsang, H., Yu, B., ... & Shum, D. H. (2024). An AI-empowered indoor digital contact tracing system for COVID-19 outbreaks in residential care homes. Infectious Disease Modelling, 9(2), 474-482.
-
-</p>
 
 <p align = "justify">
 
 - Li, J., Chan, E. A., Li, M., Lam, Y. P., Wong, A. Y., Cheung, J. P. Y., & **Li, Y**. (2024). “Am I different?” Coping and mental health among teenagers with adolescent idiopathic scoliosis: A qualitative study. Journal of Pediatric Nursing.
-
+<a href="https://doi.org/10.1016/j.pedn.2024.01.004" target="_blank">
+https://doi.org/10.1016/j.pedn.2024.01.004
+</a>
 </p>
 
-<p align = "justify">
 
-- Liang, S., Huang, S., Andarini, E., Wang, Y., **Li, Y**., & Cai, W. (2024). Development and internal validation of a risk prediction model for stress urinary incontinence throughout pregnancy: A multicenter retrospective longitudinal study in Indonesia. Neurourology and Urodynamics, 43(2), 354-363.
-
-</p>
-
-<p align = "justify">
-
-- Liang, S., Chen, Z., Tang, W., Andarini, E., Kou, L., **Li, Y**., & Cai, W. (2024). Prevalence and predictors of help-seeking behavior among post-partum women with urinary incontinence in China and Indonesia: A cross-sectional survey based on Andersen Help-Seeking Model. Midwifery, 128, 103885.
-
-</p>
 
 ### 2023 
 
