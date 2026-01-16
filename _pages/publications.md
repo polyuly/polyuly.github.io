@@ -61,7 +61,7 @@ https://10.1016/j.jamda.2025.105491
 ### 2024 
 <p align = "justify">
 
-- Cochrane Central Editorial Service, Li, M., Yuen, S., Arora, M., Liu, X., Lantta, T., Craig, A. and **Li, Y*.**, 2024. Peer‐supported interventions for people with spinal cord injury. Cochrane Database of Systematic Reviews, 2024(12). [IF=8.8, Medicine, General & Internal Q1].
+- Cochrane Central Editorial Service, Li, M., Yuen, S., Arora, M., Liu, X., Lantta, T., Craig, A. and **Li, Y*.**, 2024. Peer‐supported interventions for people with spinal cord injury. *Cochrane Database of Systematic Reviews*, 2024(12). [IF=8.8, Medicine, General & Internal Q1].
 <a href="https://10.1002/14651858.CD015942" target="_blank">
 https://10.1002/14651858.CD015942
 </a>
@@ -69,7 +69,7 @@ https://10.1002/14651858.CD015942
 
 <p align = "justify">
 
-- **Li, Y.**, Li, M., Bressington, D., Li, K., Wong, A.Y., Chung, W.M., Molassiotis, A., Ma, C.Z.H., Kor, P.P.K. and Yeung, W.F., 2024. Effect of a mindfulness and motivational interviewing-oriented physical-psychological integrative intervention for community-dwelling spinal cord injury survivors: A mixed-methods randomized controlled trial. Archives of Physical Medicine and Rehabilitation, 105(9), pp.1632-1641. [IF=3.6, Rehabilitation Q1]
+- **Li, Y.**, Li, M., Bressington, D., Li, K., Wong, A.Y., Chung, W.M., Molassiotis, A., Ma, C.Z.H., Kor, P.P.K. and Yeung, W.F., 2024. Effect of a mindfulness and motivational interviewing-oriented physical-psychological integrative intervention for community-dwelling spinal cord injury survivors: A mixed-methods randomized controlled trial. *Archives of Physical Medicine and Rehabilitation*, 105(9), pp.1632-1641. [IF=3.6, Rehabilitation Q1]
 <a href="https://10.1016/j.apmr.2024.05.017" target="_blank">
 https://10.1016/j.apmr.2024.05.017
 </a>
@@ -77,7 +77,7 @@ https://10.1016/j.apmr.2024.05.017
 
 <p align = "justify">
 
-- **Li, Y.**, Lee, K. C., Bressington, D., Liao, Q., He, M., Law, K. K., ... & Li, M. (2024). A Theory and Evidence-Based Artificial Intelligence-Driven Motivational Digital Assistant to Decrease Vaccine Hesitancy: Intervention Development and Validation. Vaccines, 12(7), 708.
+- **Li, Y.**, Lee, K. C., Bressington, D., Liao, Q., He, M., Law, K. K., ... & Li, M. (2024). A Theory and Evidence-Based Artificial Intelligence-Driven Motivational Digital Assistant to Decrease Vaccine Hesitancy: Intervention Development and Validation. *Vaccines*, 12(7), 708.
 <a href="https://doi.org/10.3390/vaccines12070708" target="_blank">
 https://doi.org/10.3390/vaccines12070708
 </a>
@@ -85,7 +85,7 @@ https://doi.org/10.3390/vaccines12070708
 
 <p align = "justify">
 
-- **Li, Y.**, Li, J., Li, M., Ho, Y. S., Sun, T. C., Wang, S., ... & Yeung, W. F. (2024). Effect of home-based acupressure on constipation in people with spinal cord injury: A study protocol for a randomized controlled trial with a mixed-method approach. European Journal of Integrative Medicine, 68, 102360.
+- **Li, Y.**, Li, J., Li, M., Ho, Y. S., Sun, T. C., Wang, S., ... & Yeung, W. F. (2024). Effect of home-based acupressure on constipation in people with spinal cord injury: A study protocol for a randomized controlled trial with a mixed-method approach. *European Journal of Integrative Medicine*, 68, 102360.
 <a href="https://doi.org/10.1016/j.eujim.2024.102360" target="_blank">
 https://doi.org/10.1016/j.eujim.2024.102360
 </a>
@@ -94,7 +94,7 @@ https://doi.org/10.1016/j.eujim.2024.102360
 
 <p align = "justify">
 
-- Li, J., Chan, E. A., Li, M., Lam, Y. P., Wong, A. Y., Cheung, J. P. Y., & **Li, Y**. (2024). “Am I different?” Coping and mental health among teenagers with adolescent idiopathic scoliosis: A qualitative study. Journal of Pediatric Nursing.
+- Li, J., Chan, E. A., Li, M., Lam, Y. P., Wong, A. Y., Cheung, J. P. Y., & **Li, Y**. (2024). “Am I different?” Coping and mental health among teenagers with adolescent idiopathic scoliosis: A qualitative study. *Journal of Pediatric Nursing*.
 <a href="https://doi.org/10.1016/j.pedn.2024.01.004" target="_blank">
 https://doi.org/10.1016/j.pedn.2024.01.004
 </a>
@@ -105,7 +105,7 @@ https://doi.org/10.1016/j.pedn.2024.01.004
 
 <p align = "justify">
 
-- **Li, Y.**, Liang, S., Zhu, B., Liu, X., Li, J., Chen, D., ... & Bressington, D. (2023). Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions: A systematic review of randomized controlled trials. **International Journal of Nursing Studies**, 104494.
+- **Li, Y.**, Liang, S., Zhu, B., Liu, X., Li, J., Chen, D., ... & Bressington, D. (2023). Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions: A systematic review of randomized controlled trials. *International Journal of Nursing Studies*, 104494.
 <a href="https://doi.org/10.1016/j.ijnurstu.2023.104494" target="_blank">
 https://doi.org/10.1016/j.ijnurstu.2023.104494
 </a>
@@ -113,7 +113,7 @@ https://doi.org/10.1016/j.ijnurstu.2023.104494
 
 <p align = "justify">
 
-- **Li, Y.**, Wong, A., Chung, W. M., Li, M., Molasiotis, A., Bressington, D., ... & Yeung, W. F. (2023). Evaluation of a Physical-Psychological Integrative (PPI) intervention for community-dwelling spinal cord injury survivors: Study protocol of a preliminary randomized controlled trial. Plos one, 18(3), e0282846.
+- **Li, Y.**, Wong, A., Chung, W. M., Li, M., Molasiotis, A., Bressington, D., ... & Yeung, W. F. (2023). Evaluation of a Physical-Psychological Integrative (PPI) intervention for community-dwelling spinal cord injury survivors: Study protocol of a preliminary randomized controlled trial. *Plos one*, 18(3), e0282846.
 <a href="https://doi.org/10.1371/journal.pone.0282846" target="_blank">
 https://doi.org/10.1371/journal.pone.0282846
 </a>
@@ -121,7 +121,7 @@ https://doi.org/10.1371/journal.pone.0282846
 
 <p align = "justify">
 
-- **Li, Y.**, Li, M.*, Yang, L., Bressington, D., Leung, S-F., Xie, Y-J., Qin, J., Molasiotis, A., Leung, AYM. (2023). Are People Willing to Take Regular COVID-19 Vaccines? Prevalence and Determinants of Hesitancy for Regular COVID-19 Vaccination: A Random Population-Based Survey in Hong Kong. Vaccines, 11(8):1388. [IF=5.2, Medicine, Research & Experimental Q1]
+- **Li, Y.**, Li, M.*, Yang, L., Bressington, D., Leung, S-F., Xie, Y-J., Qin, J., Molasiotis, A., Leung, AYM. (2023). Are People Willing to Take Regular COVID-19 Vaccines? Prevalence and Determinants of Hesitancy for Regular COVID-19 Vaccination: A Random Population-Based Survey in Hong Kong. *Vaccines*, 11(8):1388. [IF=5.2, Medicine, Research & Experimental Q1]
 <a href="https://doi.org/10.3390/vaccines11081388" target="_blank">
 https://doi.org/10.3390/vaccines11081388
 </a>
@@ -129,7 +129,7 @@ https://doi.org/10.3390/vaccines11081388
 
 <p align = "justify">
 
-- Wong, W. K., Qin, J., Bressington, D., Yeung, W. F., Liu, N., Ho, B. Y. W., Liang, S., & **Li, Y.** (2023). Cross-Cultural Adaptation and Psychometric Validation of the Constipation Assessment Scale among Chinese Adult Psychiatric Patients. International Journal of Environmental Research and Public Health, 20(3), 2703–2703. [IF=4.614, Public, Environmental & Occupational Health Q1]
+- Wong, W. K., Qin, J., Bressington, D., Yeung, W. F., Liu, N., Ho, B. Y. W., Liang, S., & **Li, Y.** (2023). Cross-Cultural Adaptation and Psychometric Validation of the Constipation Assessment Scale among Chinese Adult Psychiatric Patients. International *Journal of Environmental Research and Public Health*, 20(3), 2703–2703. [IF=4.614, Public, Environmental & Occupational Health Q1]
 <a href="https://doi.org/10.3390/ijerph20032703" target="_blank">
 https://doi.org/10.3390/ijerph20032703
 </a>
@@ -139,7 +139,7 @@ https://doi.org/10.3390/ijerph20032703
 
 <p align = "justify">
 
-- **Li, Y.**, Chien, W. T., Cheung, D. S. K., Wang, S., Qin, J., & Bressington, D. (2022). Culturally sensitive psychosocial care program for chinese people with spinal cord injury during inpatient rehabilitation. Psychiatry, 23(3), 140-141.
+- **Li, Y.**, Chien, W. T., Cheung, D. S. K., Wang, S., Qin, J., & Bressington, D. (2022). Culturally sensitive psychosocial care program for chinese people with spinal cord injury during inpatient rehabilitation. *Psychiatry*, 23(3), 140-141.
 <a href="https://doi.org/10.5152/alphapsychiatry.2022.21715" target="_blank">
 https://doi.org/10.5152/alphapsychiatry.2022.21715
 </a>
@@ -147,7 +147,7 @@ https://doi.org/10.5152/alphapsychiatry.2022.21715
 
 <p align = "justify">
 
-- Ho, L. L., **Li, Y.**, Gray, R., Ho, G. W., & Bressington, D. (2022). Experiences and views of carers regarding the physical health care of people with severe mental illness: An integrative thematic review of qualitative research. Journal of Psychiatric and Mental Health Nursing, 29(6), 774-787.
+- Ho, L. L., **Li, Y.**, Gray, R., Ho, G. W., & Bressington, D. (2022). Experiences and views of carers regarding the physical health care of people with severe mental illness: An integrative thematic review of qualitative research. *Journal of Psychiatric and Mental Health Nursing*, 29(6), 774-787.
 <a href="https://doi.org/10.1111/jpm.12804" target="_blank">
 https://doi.org/10.1111/jpm.12804
 </a>
@@ -155,7 +155,7 @@ https://doi.org/10.1111/jpm.12804
 
 <p align = "justify">
 
-- Deng, B., **Li, Y.**, Chen, J. Y., Guo, J., Tan, J., Yang, Y., & Liu, N. (2022). Prediction models of vaginal birth after cesarean delivery: A systematic review. International Journal of Nursing Studies, 104359.
+- Deng, B., **Li, Y.**, Chen, J. Y., Guo, J., Tan, J., Yang, Y., & Liu, N. (2022). Prediction models of vaginal birth after cesarean delivery: A systematic review. *International Journal of Nursing Studies*, 104359.
 <a href="https://doi.org/10.1016/j.ijnurstu.2022.104359" target="_blank">
 https://doi.org/10.1016/j.ijnurstu.2022.104359
 </a>
@@ -165,7 +165,7 @@ https://doi.org/10.1016/j.ijnurstu.2022.104359
 
 <p align = "justify">
 
-- **Li, Y.**, Chien, W. T., Zhu, B., He, H., & Bressington, D. (2021). Predictors of Self‐Efficacy Among People With Spinal Cord Injury During Inpatient Rehabilitation: A Cross‐Sectional Study. Journal of Nursing Scholarship, 53(2), 218-226.
+- **Li, Y.**, Chien, W. T., Zhu, B., He, H., & Bressington, D. (2021). Predictors of Self‐Efficacy Among People With Spinal Cord Injury During Inpatient Rehabilitation: A Cross‐Sectional Study. *Journal of Nursing Scholarship*, 53(2), 218-226.
 <a href="https://doi.org/10.1111/jnu.12632" target="_blank">
 https://doi.org/10.1111/jnu.12632
 </a>
@@ -173,7 +173,7 @@ https://doi.org/10.1111/jnu.12632
 
 <p align = "justify">
 
-- **Li, Y.**, Hildersley, R., Ho, G. W., Potts, L., & Henderson, C. (2021). Relationships between types of UK national newspapers, illness classification, and stigmatising coverage of mental disorders. Social Psychiatry and Psychiatric Epidemiology, 1-9.
+- **Li, Y.**, Hildersley, R., Ho, G. W., Potts, L., & Henderson, C. (2021). Relationships between types of UK national newspapers, illness classification, and stigmatising coverage of mental disorders. *Social Psychiatry and Psychiatric Epidemiology*, 1-9.
 <a href="https://doi.org/10.1007/s00127-021-02027-7" target="_blank">
 https://doi.org/10.1007/s00127-021-02027-7
 </a>
@@ -181,7 +181,7 @@ https://doi.org/10.1007/s00127-021-02027-7
 
 <p align = "justify">
 
-- **Li, Y.**, Coster, S., Norman, I., Chien, W. T., Qin, J., Ling Tse, M., & Bressington, D. (2021). Feasibility, acceptability, and preliminary effectiveness of mindfulness‐based interventions for people with recent‐onset psychosis: A systematic review. Early Intervention in Psychiatry, 15(1), 3-15.
+- **Li, Y.**, Coster, S., Norman, I., Chien, W. T., Qin, J., Ling Tse, M., & Bressington, D. (2021). Feasibility, acceptability, and preliminary effectiveness of mindfulness‐based interventions for people with recent‐onset psychosis: A systematic review. *Early Intervention in Psychiatry*, 15(1), 3-15.
 <a href="https://doi.org/10.1111/eip.12929" target="_blank">
 https://doi.org/10.1111/eip.12929
 </a>
@@ -191,7 +191,7 @@ https://doi.org/10.1111/eip.12929
 
 <p align = "justify">
 
-- Coster, S., **Li, Y.**, & Norman, I. J. (2020). Cochrane reviews of educational and self-management interventions to guide nursing practice: a review. International Journal of Nursing Studies, 110, 103698.
+- Coster, S., **Li, Y.**, & Norman, I. J. (2020). Cochrane reviews of educational and self-management interventions to guide nursing practice: a review. *International Journal of Nursing Studies*, 110, 103698.
 <a href="https://doi.org/10.1016/j.ijnurstu.2020.103698" target="_blank">
 https://doi.org/10.1016/j.ijnurstu.2020.103698
 </a>
@@ -199,7 +199,7 @@ https://doi.org/10.1016/j.ijnurstu.2020.103698
 
 <p align = "justify">
 
-- **Li, Y.**, Chien, W. T., & Bressington, D. (2020). Effects of a coping-oriented supportive programme for people with spinal cord injury during inpatient rehabilitation: a quasi-experimental study. Spinal Cord, 58(1), 58-69.
+- **Li, Y.**, Chien, W. T., & Bressington, D. (2020). Effects of a coping-oriented supportive programme for people with spinal cord injury during inpatient rehabilitation: a quasi-experimental study. *Spinal Cord*, 58(1), 58-69.
 <a href="https://doi.org/10.1038/s41393-019-0320-2" target="_blank">
 https://doi.org/10.1038/s41393-019-0320-2
 </a>
@@ -209,7 +209,7 @@ https://doi.org/10.1038/s41393-019-0320-2
 
 <p align = "justify">
 
-- **Li, Y.**, Bressington, D., & Chien, W. T. (2019). Pilot evaluation of a coping-oriented supportive program for people with spinal cord injury during inpatient rehabilitation. Disability and Rehabilitation, 41(2), 182-190.
+- **Li, Y.**, Bressington, D., & Chien, W. T. (2019). Pilot evaluation of a coping-oriented supportive program for people with spinal cord injury during inpatient rehabilitation. *Disability and Rehabilitation*, 41(2), 182-190.
 <a href="https://doi.org/10.1080/09638288.2017.1386238" target="_blank">
 https://doi.org/10.1080/09638288.2017.1386238
 </a>
@@ -219,7 +219,7 @@ https://doi.org/10.1080/09638288.2017.1386238
 
 <p align = "justify">
 
-- **Li, Y.**, Bressington, D., & Chien, W. T. (2017). Systematic review of psychosocial interventions for people with spinal cord injury during inpatient rehabilitation: Implications for evidence‐based practice. Worldviews on Evidence‐Based Nursing, 14(6), 499-506.
+- **Li, Y.**, Bressington, D., & Chien, W. T. (2017). Systematic review of psychosocial interventions for people with spinal cord injury during inpatient rehabilitation: Implications for evidence‐based practice. *Worldviews on Evidence‐Based Nursing*, 14(6), 499-506.
 <a href="https://doi.org/10.1111/wvn.12238" target="_blank">
 https://doi.org/10.1111/wvn.12238
 </a>
