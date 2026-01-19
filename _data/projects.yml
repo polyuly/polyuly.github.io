@@ -20,7 +20,7 @@ digital:
   more_information: 
   - name: "Project website"
     url: https://www.public.polyu-aivac.com/
-  image: "/images/projectimage/chatboticon.jpg"  
+  image: "/images/projectimage/covidphase3.png"  
 
 mental_health:
 - title: "‘Sleep Equity for Global Health’—Promoting Healthy Sleep among Health Professionals"
@@ -35,13 +35,16 @@ sci:
 - title: "Effects of Caregiver-Administrated Acupressure Intervention for Community-Dwelling Spinal Cord Injury Patients With Constipation: A Randomized Controlled Trial"
   funder: "Chinese Medicine Development Fund"
   duration: "04/2022–09/2024"
+  image: "/images/projectimage/tcm.png"
+
 
 teaching:
 - title: "Evaluation of the Innovative Generative AI-based ‘Socratic Playground for Learning” in the Context of a Newly Developed Health Informatics Subject"
   funder: "PolyU (UGC) The Community of Practice"
   duration: "06/2024–12/2024"
-  description: "Development of AI/chatbot tools to support classroom teaching."
+  image: "/images/projectimage/spl.png"
 
 - title: "Collaborative Development of Mental Health Promotion Activities for Primary School Students"
   funder: "PolyU (UGC) The Community of Practice"
   duration: "02/2024–08/2024"
+  image: "/images/projectimage/primary.jpg"
