@@ -19,7 +19,7 @@ digital:
   duration: "11/2021-10/2025"
   more_information: 
   - name: "Project website"
-  url: https://www.public.polyu-aivac.com/
+    url: https://www.public.polyu-aivac.com/
   image: "/images/projectimage/chatboticon.jpg"  
 
 mental_health:
@@ -28,7 +28,7 @@ mental_health:
   duration: "09/2024–06/2025"
   more_information: 
   - name: "Shanghai Jiao Tong University report"
-  url: https://www.shsmu.edu.cn/news/info/1003/29045.htm
+    url: https://www.shsmu.edu.cn/news/info/1003/29045.htm
   image: "/images/projectimage/sleepproject.jpg"
 
 sci:
