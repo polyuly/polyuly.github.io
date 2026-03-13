@@ -14,7 +14,7 @@ permalink: /publications/
 ### 2026
 <p align = "justify">
 
-- **Li, Y.**, Yorke, J., Li, J., He, M., Dai, Y., Zhao, Y., Qin, J., & Hu, X. (2026). An innovative Socratic method-based artificial intelligence platform for healthcare education: A quasi-experimental study. Nurse Education in Practice. Advance online publication, 104770. [IF=4.0, Nursing Q1]
+- **Li, Y.**, Yorke, J., Li, J., He, M., Dai, Y., Zhao, Y., Qin, J., & Hu, X. (2026). An innovative Socratic method-based artificial intelligence platform for healthcare education: A quasi-experimental study. *Nurse Education in Practice*. Advance online publication, 104770. [IF=4.0, Nursing Q1]
 <br>
 Full paper is available at:
 <a href="https://doi.org/10.1016/j.nepr.2026.104770" target="_blank">
