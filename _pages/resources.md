@@ -27,10 +27,10 @@ table {
    </tr>
    <tr>
       <td style="padding-right:10px;">
-         <iframe width="500px" height="300px" src="https://youtu.be/F-U7-wk4TQk?si=amdSo1XRSWjfYHQ6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         <iframe width="500px" height="300px" src="https://www.youtube.com/embed/F-U7-wk4TQk?si=1e3vcQdTC0qTxP5F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
       <td style="padding-right:10px;">
-         <iframe width="500px" height="300px" src="https://youtu.be/nQgX_DAAI3g?si=vKscqEb1aA1785ya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         <iframe width="500px" height="300px" src="https://www.youtube.com/embed/nQgX_DAAI3g?si=SuiwYpl-ThD96yGH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>
    </tr>
    <tr>
