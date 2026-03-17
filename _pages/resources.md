@@ -35,7 +35,6 @@ table {
    </tr>
    <tr>
       <td>
-      <td>
          3. AI-driven Vaccine Communicator——Auricle    
       </td>
       <td>
