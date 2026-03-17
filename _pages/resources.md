@@ -18,11 +18,28 @@ table {
 
 <table>
    <tr>
-      <td>
-         1. AI-driven Vaccine Communicator——Auricle    
+   <td>
+         1. Chatbot-Delivered Structured Psychological Intervention——SPI-Bot 
       </td>
       <td>
-         2. Spinal Cord Injury Exercises 
+         2. Virtual Walking
+      </td>
+   </tr>
+   <tr>
+      <td style="padding-right:10px;">
+         <iframe width="500px" height="300px" src="https://www.youtube.com/watch?v=F-U7-wk4TQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+      <td style="padding-right:10px;">
+         <iframe width="500px" height="300px" src="https://www.youtube.com/watch?v=nQgX_DAAI3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      <td>
+         3. AI-driven Vaccine Communicator——Auricle    
+      </td>
+      <td>
+         4. Spinal Cord Injury Exercises 
       </td>
    </tr>
    <tr>
@@ -35,10 +52,10 @@ table {
    </tr>
    <tr>
       <td>
-         3. Traditional Chinese Medicine:Chinese Acupressure Programme Introduction (Constipation)    
+         5. Traditional Chinese Medicine:Chinese Acupressure Programme Introduction (Constipation)    
       </td>
       <td>
-         4. 中醫學：中醫穴位按壓手法介紹（便秘）
+         6. 中醫學：中醫穴位按壓手法介紹（便秘）
       </td>
    </tr>
    <tr>
@@ -51,10 +68,10 @@ table {
    </tr>
    <tr>
       <td>
-         5. Traditional Chinese Medicine:Full set of sitting position acupressure (Abdomen and Limbs)   
+         7. Traditional Chinese Medicine:Full set of sitting position acupressure (Abdomen and Limbs)   
       </td>
       <td>
-         6. 中醫學：整套平臥位穴位按摩流程
+         8. 中醫學：整套平臥位穴位按摩流程
       </td>
    </tr>
    <tr>
@@ -67,10 +84,10 @@ table {
    </tr>
    <tr>
       <td>
-         7. Traditional Chinese Medicine:Full set of sitting position acupressure (Abdomen and Back)   
+         9. Traditional Chinese Medicine:Full set of sitting position acupressure (Abdomen and Back)   
       </td>
       <td>
-         8. 中醫學：整套正坐位穴位按摩流程
+         10. 中醫學：整套正坐位穴位按摩流程
       </td>
    </tr>
    <tr>
