@@ -69,11 +69,11 @@ permalink: /leader/
 {% endif %}
 
 
-Prof Yan Li is an Assistant Professor at the [School of Nursing](https://www.polyu.edu.hk/sn/), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/). She completed her postdoctoral training at Florence Nightingale Faculty of Nursing, Midwifery, and Palliative care from 2019-2020. Prof Li is a registered nurse with over 8 years of experience, and she is an active nurse researcher. 
+Prof Yan Li is an Assistant Professor at the [School of Nursing](https://www.polyu.edu.hk/sn/), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/). She completed her postdoctoral training at the Florence Nightingale Faculty of Nursing, Midwifery, and Palliative Care at King's College London, United Kingdom, from 2019 to 2020. Dr. Li has also been a visiting researcher at the University of Sydney, the National University of Singapore, and the University of Turku. In recognition of her outstanding research performance, she has been honored as a Presidential Young Scholar. 
 
-Prof Yan Li's research interest is **spinal cord injury rehabilitation**, **psychosocial interventions**, and **mental health promotion**. Her work was supported by Prof Ida Martinson Fund and King’s College London Global Research Grant. She has recently been awarded the Hong Kong Government Health and Medical Research Fund Research Fellowship to continue her research work and contribution towards local service innovation and research development in the area of mental health within spinal cord injury community rehabilitation. 
+Prof Yan Li's research interest is **Digital Psychosocial Health**, **Mental Health of individuals with physical disabilities**, and **AI in Educational Innovations**. Her work was supported by Prof Ida Martinson Fund and King’s College London Global Research Grant. She has recently been awarded the Hong Kong Government Health and Medical Research Fund Research Fellowship to continue her research work and contribution towards local service innovation and research development in the area of mental health within spinal cord injury community rehabilitation. 
 
-Prof Yan Li has published around 80 peer-reviewed journal articles and she has served as a reviewer for the Journal of Nursing Scholarship, Disability and Rehabilitation, International Journal of Interprofessional Care, BMC geriatrics, Spinal Cord and Journal of Spine surgery.
+Prof Yan Li has published around 90 peer-reviewed journal articles and she has served as a reviewer for the Journal of Nursing Scholarship, Disability and Rehabilitation, International Journal of Interprofessional Care, BMC geriatrics, Spinal Cord and Journal of Spine surgery.
 
 
 <!-- ## Research Personnel
