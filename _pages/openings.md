@@ -25,7 +25,7 @@ permalink: /vacancies
 
 **Salary and Application Deadline**
 
-1. The monthly salary for doctoral students is HKD 18,000. The application period is from September 1, 2024, to December 1, 2024, and the enrollment will begin in September 2025. For detailed application requirements, please refer to the latest updates on the school's official website: <http://www51.polyu.edu.hk/eprospectus/rpg/important-notes-to-applicants>.
+1. The monthly salary for doctoral students is HKD 18,000. The application period is from September 1, 2026, to December 1, 2026, and the enrollment will begin in September 2027. For detailed application requirements, please refer to the latest updates on the school's official website: <https://www.polyu.edu.hk/study/pg/rpg/2026/sn>.
 2. In addition to applying to The Hong Kong Polytechnic University, candidates can also apply for the Hong Kong PhD Fellowship Scheme (HKPFS), which provides a monthly stipend of up to HKD 26,600, as well as benefits such as tuition waivers and conference travel allowances. For detailed application requirements, please refer to the latest updates on the government's official website: <https://cerg1.ugc.edu.hk/hkpfs/index.html>.
 
 **Application process**
