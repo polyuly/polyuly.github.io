@@ -14,6 +14,14 @@
   education1: MA, The Hong Kong Polytechnic University, 09/2023-12/2024
   education2: BA, Shanghai University of International Business and Economics, 2022
 
+- name: Li Jiaying 李佳颖
+  photo: Janicelife.jpg
+  research_interest: Mental health promotion, Adolescent idiopathic scoliosis rehabilitation
+  # current_status: nil
+  number_educ: 2
+  education1: Master in Nursing, Xi'an Jiaotong University, 2022
+  education2: Bachelor of Natural Science, China Medical University, 2019
+
 - name: Lee Kit Ching 李潔貞
   photo: adalife.jpg
   research_interest: Psychology-based intervention 
@@ -36,6 +44,15 @@
   number_educ: 2
   education1: Master of Nursing, The Hong Kong PolyU, 2024
   education2: BSc (Honours) in Mental Health Nursing, The Hong Kong PolyU, 2020
+
+- name: Lu Wenze 陆文泽
+  photo: chrislife.jpg
+  research_interest: Online medical consultation, health communication, AI-driven healthcare
+  current_status: Associate Professor at South China University of Technology
+  number_educ: 3
+  education1: Doctor of Philosophy in Applied Linguistics, The Hong Kong Polytechnic University, 2023 
+  education2: Master of Arts in Bilingual Corporate Communication, The Hong Kong Polytechnic University, 2020
+  education3: Bachelor of Laws in International Politics, Beijing Language and Culture University, 2017
 
 - name: LAM YIM PING 林艷萍
   photo: Mono.png
