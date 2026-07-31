@@ -6,6 +6,13 @@
   education1: Master of Nursing, The Hong Kong Polytechnic University, 2024
   education2: BSc (Honours) in Mental Health Nursing, The Hong Kong Polytechnic University, 2020
 
+- name: Hu Yule 胡宇乐
+  photo: yule_updated.jpg
+  current_status: Assistant Professor at Beijing University of Chinese Medicine
+  number_educ: 2
+  education1: PhD, The Hong Kong Polytechnic University, 09/2023-07/2026
+  education2: Bachelor & Master of Nursing, Chinese Academy of Medical Sciences & Peking Union Medical College, 2023
+
 - name: He Yueting 何月汀
   photo: Photo_Christine.jpg
   research_interest: Intercultural & Health Communication
@@ -18,9 +25,10 @@
   photo: Janicelife.jpg
   research_interest: Mental health promotion, Adolescent idiopathic scoliosis rehabilitation
   # current_status: nil
-  number_educ: 2
-  education1: Master in Nursing, Xi'an Jiaotong University, 2022
-  education2: Bachelor of Natural Science, China Medical University, 2019
+  number_educ: 3
+  education1: PhD, The Hong Kong Polytechnic University, 09/2023-07/2026
+  education2: Master in Nursing, Xi'an Jiaotong University, 2022
+  education3: Bachelor of Natural Science, China Medical University, 2019
 
 - name: Lee Kit Ching 李潔貞
   photo: adalife.jpg
