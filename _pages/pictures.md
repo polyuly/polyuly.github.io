@@ -19,7 +19,7 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PolyuNursing/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PolyuNursing/{{ pic.image }}" class="img-responsive" width="95%" style="float: left;{% if pic.image contains 'research-study-01.jpg' %} aspect-ratio:4/3; object-fit:cover; object-position:center 65%;{% elsif pic.image contains 'research-study-02.jpg' %} aspect-ratio:4/3; object-fit:cover; object-position:center 20%;{% endif %}" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
