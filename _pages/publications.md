@@ -15,7 +15,7 @@ permalink: /publications/
 </nav>
 
 <section class="patent-section" aria-labelledby="publications">
-  <h2 id="publications">Representative Publications（*</sup> indicates corresponding author）</h2>
+  <h2 id="publications">Representative Publications <span style="font-size: 16px; font-weight: normal;">（* indicates corresponding author）</span></h2>
   
   <p>For a full list, please visit <a href="https://scholar.google.com.hk/citations?user=U5JYohMAAAAJ">Google Scholar</a> or <a href="https://orcid.org/0000-0002-5311-9190">ORCiD</a>.</p>
   <ol class="patent-list">
