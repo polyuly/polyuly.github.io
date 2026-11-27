@@ -180,7 +180,6 @@ Teaching-related grants and projects, such as curriculum innovation,new teaching
 
 {% endfor %}
 
-
 1. Innovative Integration of Smart Wearable Rings and Conversational Fabric Bots for Enhancing Mental Health in Patients with Inflammatory Arthritis: A Pragmatic Randomized Clinical Trial.
 
 2. Chatbot-Delivered Mindfulness-based Stress Reduction Program for Enhancing Athletes’ Sports Performance and Psychological Well-being.
