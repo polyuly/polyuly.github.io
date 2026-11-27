@@ -15,9 +15,8 @@ permalink: /publications/
 </nav>
 
 <section class="patent-section" aria-labelledby="publications">
-  <h2 id="publications">Representative Publications</h2>
-  <p>Ten selected publications with Yan Li as first and/or corresponding author.</p>
-  <p><strong>Li, Y.</strong> indicates Yan Li; <sup>*</sup> indicates corresponding author. Journal metrics follow the November 2026 CV.</p>
+  <h2 id="publications">Representative Publications（*</sup> indicates corresponding author）</h2>
+  
   <p>For a full list, please visit <a href="https://scholar.google.com.hk/citations?user=U5JYohMAAAAJ">Google Scholar</a> or <a href="https://orcid.org/0000-0002-5311-9190">ORCiD</a>.</p>
   <ol class="patent-list">
     <li>
